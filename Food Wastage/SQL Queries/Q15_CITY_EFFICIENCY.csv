@@ -1,0 +1,625 @@
+"city","total_providers","active_receivers","total_food_listed","total_claims","completed_claims","pending_claims","success_rate"
+East Heatherport,1,4,13,12,4,1,33.33
+Jamesfurt,1,3,9,9,3,3,33.33
+Lake Andrewmouth,1,3,9,9,3,4,33.33
+South Kathryn,1,5,9,7,5,1,71.43
+East John,1,1,7,7,1,3,14.29
+New Carol,2,4,10,7,4,1,57.14
+East Stephanie,1,3,6,6,3,3,50.00
+Devinmouth,1,4,6,6,4,1,66.67
+Thomasville,1,1,6,6,1,3,16.67
+Phillipsfort,2,3,7,6,3,2,50.00
+Timothychester,1,2,7,6,2,1,33.33
+East Austin,1,0,6,6,0,3,0.00
+Perezport,1,3,7,5,3,2,60.00
+Anneville,1,2,6,5,2,2,40.00
+Jordanborough,1,2,6,5,2,1,40.00
+North William,1,2,6,5,2,3,40.00
+Lake Stephen,1,1,5,5,1,3,20.00
+North Stevenbury,1,1,5,5,1,2,20.00
+North Sherrimouth,1,2,6,5,2,1,40.00
+North Kevinhaven,2,1,7,5,1,4,20.00
+Frederickside,1,2,6,5,2,3,40.00
+Zimmermanville,1,4,6,5,4,0,80.00
+Clarkberg,1,3,5,5,3,1,60.00
+Stevenchester,1,1,5,5,1,2,20.00
+New Curtis,1,1,5,5,1,3,20.00
+Williamsmouth,1,0,5,5,0,2,0.00
+East Terrancemouth,1,1,5,5,1,2,20.00
+Maxwellburgh,1,1,5,5,1,1,20.00
+West Adam,1,2,4,4,2,1,50.00
+South Justinborough,1,1,4,4,1,1,25.00
+Louismouth,1,2,4,4,2,0,50.00
+West Billborough,1,1,4,4,1,3,25.00
+East Tammy,1,1,4,4,1,1,25.00
+Coleburgh,1,4,5,4,4,0,100.00
+West Kevin,1,2,5,4,2,1,50.00
+North Ianbury,1,0,5,4,0,3,0.00
+Watsonstad,1,0,4,4,0,3,0.00
+Allenton,1,1,4,4,1,3,25.00
+Carolchester,1,0,5,4,0,2,0.00
+Port Robin,1,0,5,4,0,2,0.00
+Leslieville,1,2,5,4,2,1,50.00
+Jeffreyshire,1,1,4,4,1,2,25.00
+South Lisaberg,1,2,5,4,2,0,50.00
+Brittanyside,1,1,5,4,1,1,25.00
+Maysside,1,1,4,4,1,0,25.00
+South Stefanietown,1,2,4,4,2,1,50.00
+South Bradleyburgh,1,1,4,4,1,0,25.00
+East Candace,1,2,4,4,2,2,50.00
+West Whitneymouth,1,1,4,4,1,0,25.00
+Lewisberg,1,0,4,4,0,2,0.00
+New Denise,1,0,5,4,0,1,0.00
+Bradleyport,2,1,6,4,1,2,25.00
+Davidville,1,1,5,4,1,1,25.00
+Jasonmouth,1,3,4,4,3,1,75.00
+East Sandratown,1,2,5,4,2,0,50.00
+Donnaborough,1,1,4,4,1,1,25.00
+Roachhaven,1,2,4,4,2,1,50.00
+North Mike,1,2,5,4,2,1,50.00
+New Baileyfort,1,1,4,4,1,1,25.00
+Port Karen,1,1,4,4,1,2,25.00
+East Garyton,1,1,3,3,1,2,33.33
+North Keith,1,1,5,3,1,2,33.33
+North Katherineshire,1,1,3,3,1,2,33.33
+North Katelyn,1,1,3,3,1,0,33.33
+North James,1,0,4,3,0,2,0.00
+North Charlesside,1,0,3,3,0,2,0.00
+Walterborough,1,2,3,3,2,0,66.67
+New Travisshire,1,0,3,3,0,1,0.00
+New John,1,2,4,3,2,0,66.67
+New Jessica,1,0,3,3,0,1,0.00
+New Ginaborough,1,2,3,3,2,1,66.67
+New Evanport,1,1,3,3,1,1,33.33
+Vazquezshire,1,2,3,3,2,1,66.67
+East Roberthaven,1,1,3,3,1,0,33.33
+Muellermouth,1,0,4,3,0,3,0.00
+Michaelton,1,2,3,3,2,1,66.67
+Michaelport,1,0,4,3,0,1,0.00
+Woodport,1,1,3,3,1,1,33.33
+Erikatown,1,0,3,3,0,2,0.00
+Mendezmouth,1,1,3,3,1,0,33.33
+Marymouth,1,2,4,3,2,0,66.67
+Toddstad,1,2,3,3,2,0,66.67
+Toddberg,1,1,3,3,1,0,33.33
+Manuelhaven,1,1,3,3,1,2,33.33
+Lindseyland,1,1,3,3,1,1,33.33
+Brittanyland,1,0,4,3,0,1,0.00
+Lindseybury,1,0,4,3,0,1,0.00
+Lewishaven,1,1,3,3,1,0,33.33
+Lesterstad,1,0,3,3,0,0,0.00
+Gutierrezshire,1,1,3,3,1,0,33.33
+Adambury,1,2,3,3,2,1,66.67
+Harrisonbury,1,1,3,3,1,1,33.33
+Lake Theresa,1,2,3,3,2,0,66.67
+Lake Mistyton,1,0,3,3,0,3,0.00
+Lake Kari,1,1,3,3,1,1,33.33
+Hestermouth,1,1,3,3,1,1,33.33
+Brittanyville,1,2,3,3,2,0,66.67
+Lake April,1,0,3,3,0,1,0.00
+Lake Amymouth,1,2,4,3,2,0,66.67
+Joneshaven,1,0,3,3,0,2,0.00
+Jasonstad,1,0,3,3,0,1,0.00
+Jonathanstad,2,1,5,3,1,1,33.33
+Jonathanhaven,1,1,3,3,1,1,33.33
+South Tiffanyfort,1,0,4,3,0,0,0.00
+Andreaborough,1,1,3,3,1,0,33.33
+Cameronside,1,2,4,3,2,1,66.67
+South Jillshire,1,0,3,3,0,0,0.00
+Westmouth,1,2,3,3,2,1,66.67
+South Christopherborough,3,2,5,3,2,0,66.67
+South Alicia,1,2,3,3,2,1,66.67
+Shortfurt,1,3,3,3,3,0,100.00
+West Sharonview,1,0,3,3,0,2,0.00
+Russellfurt,1,2,3,3,2,1,66.67
+West Lauraborough,2,2,5,3,2,0,66.67
+Cisnerostown,1,0,4,3,0,1,0.00
+Reidland,1,0,3,3,0,2,0.00
+Port Robertport,1,0,3,3,0,0,0.00
+Cunninghambury,1,2,3,3,2,1,66.67
+Danachester,1,2,3,3,2,0,66.67
+Darrylchester,1,1,4,3,1,1,33.33
+West Karen,1,1,3,3,1,2,33.33
+West Danielborough,1,1,3,3,1,1,33.33
+Port Patrick,2,1,4,3,1,0,33.33
+Port Kevinburgh,1,1,3,3,1,1,33.33
+Youngchester,1,2,3,3,2,1,66.67
+Basstown,1,1,4,3,1,1,33.33
+Amberton,1,1,3,3,1,0,33.33
+Port Jacob,1,0,3,3,0,0,0.00
+East Andrewland,1,1,4,3,1,0,33.33
+West Adammouth,1,1,3,3,1,1,33.33
+East Angelafort,1,1,4,3,1,2,33.33
+Pereztown,1,1,4,3,1,1,33.33
+East Bernard,1,1,3,3,1,1,33.33
+Paulmouth,1,1,3,3,1,1,33.33
+Patrickfort,1,3,3,3,3,0,100.00
+Bentleyburgh,1,1,4,3,1,1,33.33
+North Victoriastad,1,1,3,3,1,1,33.33
+North Tom,1,2,3,3,2,1,66.67
+East Elizabethberg,1,1,4,3,1,0,33.33
+Harrishaven,1,2,2,2,2,0,100.00
+Alexanderchester,1,0,2,2,0,1,0.00
+Andersonmouth,1,1,2,2,1,0,50.00
+Aprilberg,1,1,2,2,1,1,50.00
+Bartonborough,1,0,2,2,0,0,0.00
+Batesstad,1,1,2,2,1,1,50.00
+Bentonfurt,1,1,2,2,1,0,50.00
+Brandyberg,1,1,2,2,1,1,50.00
+Brownshire,1,0,2,2,0,0,0.00
+Callahanside,1,0,2,2,0,1,0.00
+Castilloport,1,0,3,2,0,1,0.00
+Charlesmouth,1,0,2,2,0,1,0.00
+Chelseaside,1,1,2,2,1,1,50.00
+Christinamouth,1,0,2,2,0,1,0.00
+Christopherton,1,0,2,2,0,0,0.00
+Colemanton,1,0,2,2,0,2,0.00
+Collinsmouth,1,0,2,2,0,1,0.00
+Davidborough,1,1,3,2,1,1,50.00
+Davidland,1,1,2,2,1,1,50.00
+Deborahfurt,1,0,2,2,0,0,0.00
+Deckermouth,1,0,2,2,0,0,0.00
+Derekport,1,2,2,2,2,0,100.00
+East Andrea,1,1,4,2,1,0,50.00
+East Angela,1,1,5,2,1,1,50.00
+East Anthony,1,0,2,2,0,1,0.00
+East Craig,1,1,3,2,1,1,50.00
+East Jacobchester,1,0,2,2,0,2,0.00
+East Lisa,2,1,3,2,1,1,50.00
+East Meganfort,1,0,2,2,0,0,0.00
+East Robert,1,0,3,2,0,1,0.00
+East Samantha,1,0,2,2,0,1,0.00
+Edwardsbury,1,1,2,2,1,0,50.00
+Francisshire,1,0,2,2,0,0,0.00
+Gaineschester,1,1,3,2,1,0,50.00
+Garciatown,1,1,2,2,1,0,50.00
+Heatherview,1,2,4,2,2,0,100.00
+Herbertbury,1,1,2,2,1,1,50.00
+Hollyhaven,1,0,3,2,0,0,0.00
+Jeffreybury,1,1,3,2,1,0,50.00
+Jessicaland,1,0,2,2,0,1,0.00
+Johnton,1,0,2,2,0,2,0.00
+Jonathanmouth,1,1,2,2,1,0,50.00
+Jonestown,1,1,2,2,1,0,50.00
+Joshuastad,1,1,2,2,1,1,50.00
+Keithburgh,1,1,2,2,1,0,50.00
+Kevinfort,1,1,2,2,1,0,50.00
+Lake Alicia,1,0,2,2,0,1,0.00
+Lake Cathy,1,1,2,2,1,0,50.00
+Lake Christopherburgh,1,1,4,2,1,0,50.00
+Lake Donna,1,0,2,2,0,1,0.00
+Lake Jason,1,1,2,2,1,0,50.00
+Lake Jessicamouth,1,1,2,2,1,1,50.00
+Lake Joseph,1,0,2,2,0,2,0.00
+Lake Justin,1,2,4,2,2,0,100.00
+Lake Karenfurt,1,0,3,2,0,1,0.00
+Lake Kristentown,1,0,2,2,0,0,0.00
+Lake Latasha,1,2,2,2,2,0,100.00
+Lake Lorrainefort,1,0,3,2,0,1,0.00
+Lake Michael,2,0,3,2,0,1,0.00
+Lake Michaelfurt,1,2,2,2,2,0,100.00
+Lake Rachael,1,0,2,2,0,2,0.00
+Lake Regina,1,0,3,2,0,0,0.00
+Lake Shelby,1,1,2,2,1,1,50.00
+Lake Tamara,1,1,2,2,1,1,50.00
+Lake Vanessa,1,2,2,2,2,0,100.00
+Laurietown,1,1,3,2,1,0,50.00
+Leeburgh,1,0,2,2,0,0,0.00
+Linchester,1,1,2,2,1,0,50.00
+Longland,1,1,2,2,1,0,50.00
+Madisonfort,1,0,3,2,0,1,0.00
+Manningshire,1,1,4,2,1,1,50.00
+Marissaville,1,1,2,2,1,0,50.00
+Marthaside,1,2,2,2,2,0,100.00
+Maynardstad,1,0,2,2,0,1,0.00
+Medinatown,1,0,3,2,0,1,0.00
+Meghanfurt,1,1,2,2,1,1,50.00
+Morriston,1,1,2,2,1,1,50.00
+Murrayborough,1,2,3,2,2,0,100.00
+New Aaronberg,1,2,2,2,2,0,100.00
+New Amanda,2,0,5,2,0,1,0.00
+New Bobbytown,1,1,3,2,1,1,50.00
+New Dawnborough,1,2,2,2,2,0,100.00
+New Jacob,1,0,2,2,0,1,0.00
+New Joel,1,0,3,2,0,2,0.00
+New Michelle,1,0,2,2,0,2,0.00
+New Rachel,1,0,2,2,0,0,0.00
+New Richard,1,0,3,2,0,2,0.00
+North Amanda,1,0,3,2,0,1,0.00
+North Crystal,1,1,2,2,1,0,50.00
+North Destiny,1,1,3,2,1,0,50.00
+North Douglasfurt,1,0,3,2,0,0,0.00
+North Gary,1,1,2,2,1,1,50.00
+North Julieburgh,2,0,3,2,0,2,0.00
+North Katelynland,1,1,3,2,1,1,50.00
+North Nicholas,1,0,2,2,0,0,0.00
+North Sharonburgh,1,0,2,2,0,1,0.00
+Olsenstad,1,1,2,2,1,1,50.00
+Padillatown,1,1,2,2,1,0,50.00
+Pamelaberg,1,0,3,2,0,2,0.00
+Pearsonchester,1,1,2,2,1,0,50.00
+Port Amandamouth,1,1,2,2,1,0,50.00
+Port Andrea,1,0,3,2,0,2,0.00
+Port Donnaton,1,1,2,2,1,1,50.00
+Port Emily,1,1,2,2,1,0,50.00
+Port Emilyburgh,1,1,2,2,1,1,50.00
+Port Eric,1,1,2,2,1,0,50.00
+Port Marcland,1,2,2,2,2,0,100.00
+Port Markview,1,0,2,2,0,1,0.00
+Port Melissa,1,0,2,2,0,0,0.00
+Port Troychester,1,2,2,2,2,0,100.00
+Port Victoria,1,0,3,2,0,2,0.00
+Priceland,1,0,2,2,0,2,0.00
+Raybury,1,1,2,2,1,1,50.00
+Richardsonhaven,1,0,2,2,0,1,0.00
+Ruizmouth,1,1,2,2,1,0,50.00
+Samanthabury,1,1,2,2,1,1,50.00
+Shirleyland,1,0,2,2,0,1,0.00
+Smithfort,1,0,3,2,0,0,0.00
+South Allisonburgh,1,1,2,2,1,1,50.00
+South Andrewport,1,1,2,2,1,1,50.00
+South Edwardtown,1,2,2,2,2,0,100.00
+South Jacobport,1,0,2,2,0,1,0.00
+South Kellyberg,1,0,2,2,0,2,0.00
+South Kellyville,1,2,2,2,2,0,100.00
+South Michaelberg,1,2,3,2,2,0,100.00
+South Nicole,1,1,2,2,1,1,50.00
+South Randy,1,0,2,2,0,2,0.00
+South Thomasville,1,0,4,2,0,2,0.00
+Steeleport,1,1,2,2,1,0,50.00
+Stephanieberg,1,0,2,2,0,2,0.00
+Taylormouth,1,1,2,2,1,1,50.00
+Wadeville,1,1,2,2,1,0,50.00
+West Amandafurt,1,0,2,2,0,1,0.00
+West Juliabury,1,0,3,2,0,0,0.00
+West Melissastad,1,1,2,2,1,1,50.00
+West Miaside,1,1,2,2,1,0,50.00
+West Omarside,1,2,2,2,2,0,100.00
+Williamsonmouth,1,1,3,2,1,1,50.00
+Yatesside,1,1,2,2,1,1,50.00
+Floresville,1,0,1,1,0,1,0.00
+Valdezborough,1,0,1,1,0,1,0.00
+Evansmouth,1,0,1,1,0,1,0.00
+Mcclainfurt,1,1,1,1,1,0,100.00
+New Lisa,1,1,1,1,1,0,100.00
+New Matthew,1,0,1,1,0,0,0.00
+Watsonton,1,0,1,1,0,1,0.00
+New Ninashire,1,0,1,1,0,1,0.00
+Benjaminstad,1,1,1,1,1,0,100.00
+New Ricky,1,0,1,1,0,1,0.00
+New Robertstad,1,1,1,1,1,0,100.00
+New Rodneyville,1,0,2,1,0,0,0.00
+New Zachary,1,1,1,1,1,0,100.00
+Nicoletown,1,0,1,1,0,0,0.00
+Nolanmouth,1,0,1,1,0,1,0.00
+North Aaron,1,0,2,1,0,1,0.00
+Bellport,1,0,2,1,0,1,0.00
+North Ashley,1,1,1,1,1,0,100.00
+North Caitlin,1,0,1,1,0,0,0.00
+North Catherine,1,0,1,1,0,1,0.00
+East Lori,1,0,1,1,0,0,0.00
+Wilsonport,1,0,1,1,0,0,0.00
+West Anthonymouth,1,0,1,1,0,1,0.00
+North Ebony,1,0,2,1,0,1,0.00
+North Edwinchester,1,1,1,1,1,0,100.00
+North Garybury,1,0,2,1,0,1,0.00
+West Brandon,1,0,2,1,0,1,0.00
+West Catherine,1,0,1,1,0,0,0.00
+East Kevin,1,0,1,1,0,0,0.00
+East Johnburgh,1,0,1,1,0,1,0.00
+East Emilyburgh,1,1,1,1,1,0,100.00
+North Lisaland,1,1,1,1,1,0,100.00
+North Mariahchester,1,0,1,1,0,1,0.00
+North Melanie,1,0,1,1,0,1,0.00
+East Emily,1,1,1,1,1,0,100.00
+North Nathan,1,1,1,1,1,0,100.00
+North Ryan,1,0,1,1,0,0,0.00
+North Sharonberg,1,0,1,1,0,0,0.00
+West Corey,1,1,2,1,1,0,100.00
+East Elizabeth,1,0,1,1,0,0,0.00
+East Edwinburgh,1,1,2,1,1,0,100.00
+East Deniseborough,1,1,1,1,1,0,100.00
+North Tracy,1,0,1,1,0,0,0.00
+West Dannyland,1,1,1,1,1,0,100.00
+West Dawn,1,0,2,1,0,1,0.00
+East Courtneymouth,1,1,1,1,1,0,100.00
+Patrickmouth,1,0,1,1,0,0,0.00
+Penabury,1,0,3,1,0,1,0.00
+East Brittanyland,1,1,2,1,1,0,100.00
+East Ashleyshire,1,0,2,1,0,1,0.00
+East Amyfurt,1,0,1,1,0,1,0.00
+Wilsonview,1,0,1,1,0,1,0.00
+Port Anita,1,0,1,1,0,0,0.00
+Port Bryce,1,1,2,1,1,0,100.00
+Port Connie,1,1,3,1,1,0,100.00
+Port Davidshire,1,1,1,1,1,0,100.00
+Port Dianaberg,1,0,1,1,0,0,0.00
+West Kara,1,1,1,1,1,0,100.00
+Port Dustin,1,0,1,1,0,0,0.00
+Anthonyton,1,0,1,1,0,0,0.00
+Port Gregton,1,0,1,1,0,0,0.00
+East Aaron,1,0,2,1,0,0,0.00
+Deborahland,1,0,1,1,0,0,0.00
+Davisview,1,0,1,1,0,0,0.00
+Port Lesliebury,1,0,1,1,0,1,0.00
+Port Lisamouth,1,1,2,1,1,0,100.00
+West Larry,1,0,1,1,0,1,0.00
+Anthonyshire,1,0,1,1,0,1,0.00
+Port Matthew,1,1,1,1,1,0,100.00
+Port Melanie,1,1,3,1,1,0,100.00
+West Lisamouth,1,1,1,1,1,0,100.00
+Davidport,1,1,1,1,1,0,100.00
+Port Peter,1,1,2,1,1,0,100.00
+Port Richardshire,1,0,2,1,0,0,0.00
+Port Staceymouth,1,0,1,1,0,1,0.00
+Port Tanyaburgh,1,0,1,1,0,1,0.00
+West Lucasville,1,1,1,1,1,0,100.00
+West Melissa,1,0,1,1,0,1,0.00
+Ramseyfort,1,1,1,1,1,0,100.00
+Andersonville,1,1,1,1,1,0,100.00
+Rebeccaburgh,1,0,1,1,0,1,0.00
+Allenborough,1,1,1,1,1,0,100.00
+Christopherstad,1,0,1,1,0,0,0.00
+Robertshire,1,0,1,1,0,1,0.00
+Rodriguezview,1,0,2,1,0,0,0.00
+Rogersmouth,1,0,1,1,0,0,0.00
+Roystad,1,0,1,1,0,1,0.00
+West Michael,1,1,1,1,1,0,100.00
+Christinetown,1,0,1,1,0,0,0.00
+Amandashire,1,0,1,1,0,1,0.00
+Samueltown,1,1,1,1,1,0,100.00
+Sandrastad,1,0,2,1,0,1,0.00
+Sharonton,1,0,2,1,0,0,0.00
+West Robert,1,0,2,1,0,1,0.00
+West Samantha,1,0,1,1,0,1,0.00
+Snyderton,1,0,2,1,0,1,0.00
+Solisburgh,1,0,2,1,0,1,0.00
+Chelseyfort,1,0,2,1,0,1,0.00
+South Anne,1,0,1,1,0,1,0.00
+South Brenda,1,0,1,1,0,1,0.00
+South Charles,1,0,1,1,0,1,0.00
+South Danielle,1,0,2,1,0,0,0.00
+South Davidside,1,0,1,1,0,1,0.00
+South Douglashaven,1,1,1,1,1,0,100.00
+West Stevenport,1,0,1,1,0,1,0.00
+West Tinamouth,1,0,1,1,0,1,0.00
+South Jerryside,1,1,3,1,1,0,100.00
+South Johnshire,1,0,1,1,0,0,0.00
+Carlbury,1,0,2,1,0,0,0.00
+West Vanessafort,1,0,1,1,0,0,0.00
+Anthonyborough,1,0,1,1,0,0,0.00
+South Kevinhaven,1,0,1,1,0,0,0.00
+Jenniferville,1,0,1,1,0,1,0.00
+Westbury,1,0,1,1,0,0,0.00
+Johnsonborough,1,1,2,1,1,0,100.00
+South Michellechester,1,0,1,1,0,0,0.00
+Jeffreyport,1,0,1,1,0,0,0.00
+Jordanhaven,1,0,2,1,0,0,0.00
+Justinhaven,1,0,1,1,0,0,0.00
+Huberstad,1,1,1,1,1,0,100.00
+Lake Christophermouth,1,0,2,1,0,1,0.00
+Lake Coryhaven,1,0,1,1,0,0,0.00
+Lake Diane,1,0,2,1,0,0,0.00
+Lake George,1,0,1,1,0,1,0.00
+Lake Heather,1,1,1,1,1,0,100.00
+Lake James,1,0,1,1,0,1,0.00
+Lake Jamestown,1,1,2,1,1,0,100.00
+Lake Jasmin,1,1,1,1,1,0,100.00
+Brownchester,1,1,1,1,1,0,100.00
+South Tylerstad,1,0,1,1,0,1,0.00
+Spenceland,1,1,1,1,1,0,100.00
+Williamsfort,1,0,2,1,0,0,0.00
+Henrychester,1,0,1,1,0,0,0.00
+Brownberg,1,1,1,1,1,0,100.00
+Lake Lauraton,1,1,1,1,1,0,100.00
+Lake Maria,1,0,1,1,0,0,0.00
+Strongmouth,1,0,2,1,0,0,0.00
+Sylviabury,1,1,1,1,1,0,100.00
+Heatherside,1,1,1,1,1,0,100.00
+Tammyside,1,0,1,1,0,0,0.00
+Lake Ryanbury,1,0,1,1,0,1,0.00
+Zimmermanton,1,0,2,1,0,0,0.00
+Lake Traceyburgh,1,0,1,1,0,1,0.00
+Lake Travis,1,0,4,1,0,0,0.00
+Brookeland,1,0,2,1,0,0,0.00
+Lake Vanessaland,1,1,1,1,1,0,100.00
+Latoyaberg,1,0,1,1,0,1,0.00
+Thorntonbury,1,0,2,1,0,0,0.00
+Grahamside,1,0,1,1,0,1,0.00
+Ginaview,1,0,1,1,0,0,0.00
+Gibsonfort,1,1,1,1,1,0,100.00
+Garzaville,1,1,1,1,1,0,100.00
+Timothyview,1,1,1,1,1,0,100.00
+Gardnerfort,1,0,3,1,0,1,0.00
+Lisamouth,1,0,1,1,0,0,0.00
+Tinamouth,1,1,1,1,1,0,100.00
+Marcstad,1,0,2,1,0,1,0.00
+Markport,1,0,3,1,0,0,0.00
+Fowlerbury,1,0,1,1,0,1,0.00
+Matthewbury,1,1,1,1,1,0,100.00
+Meganshire,1,0,1,1,0,1,0.00
+Boylechester,1,0,1,1,0,1,0.00
+East Timothy,1,1,1,1,1,0,100.00
+Michaelview,1,0,1,1,0,0,0.00
+Millerview,1,1,2,1,1,0,100.00
+Mitchellmouth,1,1,1,1,1,0,100.00
+Mooreview,1,0,1,1,0,1,0.00
+Moralesside,1,0,2,1,0,0,0.00
+Velazquezview,1,0,1,1,0,1,0.00
+Mortonfort,1,0,2,1,0,0,0.00
+East Sonyaport,1,0,1,1,0,0,0.00
+Villaborough,1,0,1,1,0,0,0.00
+Villastad,1,0,2,1,0,0,0.00
+Williamview,1,0,1,1,0,0,0.00
+East Sheena,1,0,2,1,0,0,0.00
+New Billy,1,1,1,1,1,0,100.00
+Walkerfurt,1,1,1,1,1,0,100.00
+New Calebberg,1,1,2,1,1,0,100.00
+East Shanestad,1,0,1,1,0,0,0.00
+New Daniel,1,0,1,1,0,1,0.00
+Bonillahaven,1,0,1,1,0,1,0.00
+New Douglas,1,1,1,1,1,0,100.00
+New Erica,1,1,1,1,1,0,100.00
+East Richardside,1,0,2,1,0,0,0.00
+New Hannah,1,0,1,1,0,0,0.00
+Walterton,1,0,1,1,0,1,0.00
+New Jamesburgh,1,0,1,1,0,1,0.00
+East Nicholasbury,1,0,1,1,0,1,0.00
+Blaketown,1,0,2,1,0,1,0.00
+New Larry,1,0,1,1,0,1,0.00
+Valentineside,1,0,2,0,0,0,
+Johnport,1,0,1,0,0,0,
+Garciaside,1,0,1,0,0,0,
+Elliottberg,1,0,1,0,0,0,
+East Williamshire,1,0,1,0,0,0,
+Port Marissachester,1,0,1,0,0,0,
+Johnsonside,1,0,1,0,0,0,
+Mikaylachester,1,0,1,0,0,0,
+Johnstonhaven,1,0,1,0,0,0,
+Torresshire,1,0,2,0,0,0,
+Mooneybury,1,0,1,0,0,0,
+Mooremouth,1,0,1,0,0,0,
+Steveport,1,0,1,0,0,0,
+Port Michael,1,0,2,0,0,0,
+Morganhaven,1,0,1,0,0,0,
+Port Michaelshire,1,0,1,0,0,0,
+South Nicholasville,1,0,1,0,0,0,
+Moseshaven,1,0,1,0,0,0,
+Jefferyside,1,0,2,0,0,0,
+Jasonland,1,0,1,0,0,0,
+Crystalborough,1,0,1,0,0,0,
+Cordovaborough,1,0,1,0,0,0,
+Port Ronaldshire,1,0,1,0,0,0,
+Port Rubenville,1,0,1,0,0,0,
+Annahaven,1,0,1,0,0,0,
+Jasmineberg,1,0,1,0,0,0,
+Port Timothystad,1,0,1,0,0,0,
+New Connorfort,1,0,1,0,0,0,
+East Sandra,1,0,1,0,0,0,
+Martinville,1,0,1,0,0,0,
+West Matthew,1,0,1,0,0,0,
+East Rossside,1,0,1,0,0,0,
+Josephburgh,1,0,1,0,0,0,
+Ramosville,1,0,1,0,0,0,
+Joseville,1,0,1,0,0,0,
+East Phillipton,1,0,1,0,0,0,
+Randallchester,1,0,1,0,0,0,
+New Hollyfurt,1,0,1,0,0,0,
+Wheelermouth,1,0,1,0,0,0,
+Lopezport,1,0,1,0,0,0,
+Connieside,1,0,1,0,0,0,
+Reyesshire,1,0,1,0,0,0,
+East Michelle,1,0,1,0,0,0,
+Riceshire,1,0,1,0,0,0,
+New Leslieport,1,0,1,0,0,0,
+Katherinefurt,1,0,1,0,0,0,
+Richchester,1,0,1,0,0,0,
+New Michaelmouth,1,0,1,0,0,0,
+South Richard,1,0,1,0,0,0,
+New Monicaside,1,0,1,0,0,0,
+Kellytown,1,0,2,0,0,0,
+Weberfurt,1,0,1,0,0,0,
+Rodriguezfurt,1,0,1,0,0,0,
+Kentland,1,0,1,0,0,0,
+South Richardhaven,1,0,1,0,0,0,
+Kylehaven,1,0,2,0,0,0,
+New Thomasmouth,1,0,1,0,0,0,
+New Tiffanystad,1,0,1,0,0,0,
+East Melissa,1,0,3,0,0,0,
+South Robert,1,0,1,0,0,0,
+Janetborough,1,0,1,0,0,0,
+Salastown,1,0,1,0,0,0,
+Salinasville,1,0,1,0,0,0,
+Jamesport,1,0,2,0,0,0,
+Lake Anthonyport,1,0,1,0,0,0,
+North Brendaborough,1,0,1,0,0,0,
+North Brentbury,1,0,1,0,0,0,
+North Brooke,1,0,1,0,0,0,
+Brittanyport,1,0,1,0,0,0,
+North Carolfurt,1,0,1,0,0,0,
+Saraburgh,1,0,1,0,0,0,
+Sarahland,1,0,2,0,0,0,
+North Chase,1,0,2,0,0,0,
+West Aliciabury,1,0,1,0,0,0,
+Scottchester,1,0,1,0,0,0,
+Lake Benjamin,1,0,2,0,0,0,
+Sheenashire,1,0,1,0,0,0,
+Sheilaburgh,1,0,1,0,0,0,
+North Elizabeth,1,0,1,0,0,0,
+Belindaville,1,0,2,0,0,0,
+South Russelltown,1,0,1,0,0,0,
+East Lindsayville,1,0,1,0,0,0,
+East Laurashire,1,0,1,0,0,0,
+North Jamesberg,1,0,1,0,0,0,
+North Joseph,1,0,1,0,0,0,
+Christinaland,1,0,1,0,0,0,
+East Kimberly,1,0,1,0,0,0,
+Browntown,1,0,1,0,0,0,
+Smithmouth,1,0,1,0,0,0,
+Garciaport,1,0,1,0,0,0,
+North Kennethshire,1,0,2,0,0,0,
+Lake Nathan,1,0,1,0,0,0,
+North Kylestad,1,0,1,0,0,0,
+North Lauren,1,0,2,0,0,0,
+North Lindseychester,1,0,3,0,0,0,
+Lake Deborah,1,0,1,0,0,0,
+West Samuelfurt,1,0,2,0,0,0,
+North Mary,1,0,1,0,0,0,
+Anthonyhaven,1,0,1,0,0,0,
+North Michelle,1,0,1,0,0,0,
+Tamaraside,1,0,1,0,0,0,
+Charlesview,1,0,1,0,0,0,
+West Cherylfort,1,0,1,0,0,0,
+Williamland,1,0,1,0,0,0,
+South Bryan,1,0,3,0,0,0,
+Lake Raymondton,1,0,1,0,0,0,
+Chambersfort,1,0,1,0,0,0,
+North Steven,1,0,1,0,0,0,
+South Crystalberg,1,0,1,0,0,0,
+North Susan,1,0,1,0,0,0,
+Madelinechester,1,0,1,0,0,0,
+Lake Richardhaven,1,0,1,0,0,0,
+East Deborah,1,0,1,0,0,0,
+East Cynthia,1,0,1,0,0,0,
+Bairdfort,1,0,1,0,0,0,
+South Donald,1,0,1,0,0,0,
+Brianside,1,0,1,0,0,0,
+Taylorchester,1,0,1,0,0,0,
+Heathermouth,1,0,1,0,0,0,
+East Christophertown,1,0,1,0,0,0,
+West Hunter,1,0,2,0,0,0,
+South Jeffreyburgh,1,0,1,0,0,0,
+Lake Jeffreytown,1,0,1,0,0,0,
+South Jessicachester,1,0,1,0,0,0,
+Perkinsbury,1,0,1,0,0,0,
+Petersonburgh,1,0,1,0,0,0,
+Carrport,1,0,1,0,0,0,
+Phillipsmouth,1,0,2,0,0,0,
+Port Aaron,1,0,1,0,0,0,
+West James,1,0,2,0,0,0,
+Port Andre,1,0,1,0,0,0,
+Brendantown,1,0,1,0,0,0,
+South William,1,0,1,0,0,0,
+South Karen,1,0,1,0,0,0,
+Port Carrie,1,0,1,0,0,0,
+Carlborough,1,0,1,0,0,0,
+Port Daniellechester,1,0,1,0,0,0,
+Port David,1,0,2,0,0,0,
+Hawkinsmouth,1,0,1,0,0,0,
+Garciamouth,1,0,1,0,0,0,
+Tyronebury,1,0,1,0,0,0,
+Cannonside,1,0,1,0,0,0,
+Ashleyhaven,1,0,1,0,0,0,
+West Kelli,1,0,1,0,0,0,
+South Marthahaven,1,0,1,0,0,0,
+Port Erin,1,0,1,0,0,0,
+Jennifertown,1,0,1,0,0,0,
+Port Heidiland,1,0,1,0,0,0,
+Lake Kendramouth,1,0,2,0,0,0,
+Port Jeffrey,1,0,2,0,0,0,
+Jeremiahfort,1,0,1,0,0,0,
+Port Kendraborough,1,0,1,0,0,0,
+Andrewsmouth,1,0,1,0,0,0,
+Port Lance,1,0,1,0,0,0,
+Port Leahfurt,1,0,1,0,0,0,
+Jimmyberg,1,0,5,0,0,0,

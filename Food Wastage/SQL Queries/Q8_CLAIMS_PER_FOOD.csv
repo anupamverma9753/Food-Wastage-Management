@@ -1,0 +1,1001 @@
+"Food_ID","Food_Name","Food_Type","Meal_Type","Location","number_of_claims","available_quantity"
+463,Soup,Vegan,Lunch,Jamesfurt,5,36
+486,Chicken,Vegan,Snacks,Timothychester,5,9
+548,Fish,Vegan,Snacks,North William,5,26
+925,Salad,Non-Vegetarian,Lunch,West Billborough,4,12
+981,Dairy,Vegan,Breakfast,Stevenchester,4,47
+251,Dairy,Non-Vegetarian,Lunch,Devinmouth,4,12
+92,Chicken,Vegetarian,Breakfast,East Heatherport,4,42
+190,Salad,Non-Vegetarian,Snacks,New Carol,4,25
+674,Vegetables,Vegetarian,Lunch,Anneville,4,34
+35,Rice,Vegan,Breakfast,East Austin,4,6
+696,Rice,Non-Vegetarian,Snacks,East Heatherport,4,26
+886,Bread,Vegetarian,Breakfast,South Justinborough,4,48
+797,Dairy,Vegan,Breakfast,Phillipsfort,4,40
+832,Fish,Non-Vegetarian,Breakfast,East Heatherport,4,19
+520,Fish,Non-Vegetarian,Breakfast,New Baileyfort,4,23
+882,Salad,Vegan,Lunch,North Sherrimouth,4,43
+217,Soup,Vegetarian,Lunch,Bradleyport,4,42
+915,Vegetables,Non-Vegetarian,Snacks,Port Karen,4,35
+861,Dairy,Non-Vegetarian,Dinner,Roachhaven,4,45
+964,Rice,Vegan,Dinner,Leslieville,3,46
+16,Dairy,Vegan,Snacks,East Tammy,3,6
+622,Fish,Vegan,Snacks,Jordanborough,3,17
+615,Salad,Vegetarian,Breakfast,Lake Theresa,3,11
+241,Fish,Vegetarian,Breakfast,East Candace,3,4
+465,Rice,Vegetarian,Snacks,Darrylchester,3,32
+798,Fish,Vegetarian,Lunch,North Mike,3,3
+743,Chicken,Vegan,Breakfast,Brittanyside,3,46
+380,Soup,Non-Vegetarian,Snacks,Harrisonbury,3,26
+744,Fish,Non-Vegetarian,Snacks,North Katelyn,3,13
+606,Pasta,Vegetarian,Dinner,New Ginaborough,3,36
+579,Dairy,Vegetarian,Breakfast,Lake Stephen,3,44
+374,Chicken,Vegan,Lunch,South Kathryn,3,44
+670,Salad,Non-Vegetarian,Snacks,Toddstad,3,37
+730,Soup,Vegan,Lunch,Lewisberg,3,15
+870,Fish,Vegetarian,Breakfast,Cameronside,3,3
+460,Dairy,Vegetarian,Dinner,Vazquezshire,3,45
+505,Pasta,Vegetarian,Snacks,New Denise,3,12
+837,Soup,Vegan,Snacks,Lesterstad,3,50
+427,Soup,Non-Vegetarian,Lunch,Adambury,3,34
+224,Fruits,Non-Vegetarian,Snacks,Brittanyland,3,29
+479,Salad,Vegetarian,Breakfast,Basstown,3,2
+912,Dairy,Non-Vegetarian,Breakfast,South Jillshire,3,6
+233,Fish,Non-Vegetarian,Snacks,West Adammouth,3,19
+188,Soup,Vegan,Breakfast,Danachester,3,4
+558,Chicken,Vegetarian,Snacks,Port Kevinburgh,3,32
+909,Fish,Vegan,Snacks,Lewishaven,3,10
+599,Fruits,Vegetarian,Lunch,Muellermouth,3,19
+115,Pasta,Vegan,Lunch,East Bernard,3,8
+609,Bread,Vegetarian,Breakfast,West Karen,3,38
+30,Soup,Vegetarian,Dinner,Clarkberg,3,4
+84,Rice,Vegan,Snacks,Coleburgh,3,25
+945,Vegetables,Vegetarian,Breakfast,South Stefanietown,3,16
+345,Pasta,Vegan,Lunch,Thomasville,3,14
+398,Dairy,Non-Vegetarian,Snacks,North Katherineshire,3,27
+937,Bread,Non-Vegetarian,Lunch,Patrickfort,3,18
+632,Fruits,Vegan,Breakfast,North Stevenbury,3,45
+230,Fruits,Vegetarian,Breakfast,Zimmermanville,3,17
+101,Dairy,Non-Vegetarian,Dinner,Jasonmouth,3,35
+271,Rice,Vegan,Breakfast,Reidland,3,22
+297,Pasta,Non-Vegetarian,Breakfast,East Roberthaven,3,46
+96,Dairy,Non-Vegetarian,Breakfast,South Tiffanyfort,3,5
+152,Fish,Non-Vegetarian,Dinner,North Kevinhaven,3,46
+107,Salad,Vegetarian,Breakfast,Port Jacob,3,29
+528,Chicken,Vegan,Snacks,Williamsmouth,3,6
+786,Rice,Vegetarian,Dinner,North Victoriastad,3,4
+58,Pasta,Vegan,Lunch,Cunninghambury,3,39
+952,Pasta,Vegan,Dinner,West Lauraborough,3,32
+174,Chicken,Vegan,Breakfast,Lake Kari,3,23
+258,Fish,Vegetarian,Breakfast,East Angelafort,3,24
+256,Rice,Non-Vegetarian,Dinner,Jamesfurt,3,33
+151,Chicken,Vegetarian,Dinner,Port Robertport,3,19
+822,Dairy,Vegan,Lunch,Frederickside,3,27
+636,Fish,Non-Vegetarian,Lunch,North James,3,11
+214,Soup,Vegan,Breakfast,Hestermouth,3,9
+947,Bread,Vegetarian,Breakfast,East John,3,29
+335,Rice,Non-Vegetarian,Snacks,Jeffreyshire,3,38
+215,Bread,Vegetarian,Snacks,Lake Andrewmouth,3,50
+560,Fruits,Non-Vegetarian,Snacks,North Stevenbury,2,41
+390,Soup,Non-Vegetarian,Lunch,New Richard,2,19
+572,Bread,Vegetarian,Dinner,Port Markview,2,46
+22,Chicken,Vegan,Snacks,Russellfurt,2,46
+932,Pasta,Vegetarian,Dinner,Jordanborough,2,11
+911,Fish,Vegetarian,Dinner,Lake Shelby,2,5
+690,Fruits,Vegetarian,Breakfast,New Bobbytown,2,43
+474,Rice,Vegetarian,Dinner,New Curtis,2,5
+326,Soup,Vegan,Dinner,North Charlesside,2,25
+820,Fruits,Non-Vegetarian,Lunch,South Randy,2,46
+826,Bread,Vegan,Snacks,West Danielborough,2,39
+410,Salad,Non-Vegetarian,Snacks,New Carol,2,21
+657,Rice,Vegan,Lunch,South Bradleyburgh,2,14
+991,Vegetables,Vegetarian,Dinner,Carolchester,2,7
+600,Rice,Non-Vegetarian,Snacks,Chelseaside,2,39
+485,Salad,Vegan,Lunch,Shirleyland,2,50
+110,Salad,Vegan,Dinner,South Alicia,2,49
+594,Chicken,Non-Vegetarian,Breakfast,Watsonstad,2,35
+920,Soup,Vegetarian,Snacks,Youngchester,2,2
+97,Rice,Vegetarian,Dinner,Thomasville,2,44
+544,Soup,Non-Vegetarian,Dinner,East Sandratown,2,36
+771,Chicken,Vegetarian,Dinner,East Sandratown,2,9
+851,Fruits,Non-Vegetarian,Snacks,New Aaronberg,2,35
+917,Soup,Vegan,Dinner,Heatherview,2,15
+705,Fruits,Non-Vegetarian,Breakfast,Christinamouth,2,39
+715,Soup,Non-Vegetarian,Breakfast,South Lisaberg,2,21
+682,Pasta,Vegetarian,Snacks,West Adam,2,30
+940,Fish,Vegan,Lunch,Pereztown,2,36
+574,Vegetables,Non-Vegetarian,Breakfast,South Bradleyburgh,2,17
+216,Vegetables,Vegetarian,Dinner,Port Emilyburgh,2,33
+807,Salad,Vegetarian,Dinner,South Nicole,2,35
+791,Soup,Vegetarian,Breakfast,South Jacobport,2,23
+89,Chicken,Vegan,Lunch,Olsenstad,2,3
+49,Fish,Non-Vegetarian,Dinner,Morriston,2,41
+406,Salad,Vegetarian,Snacks,Stephanieberg,2,28
+163,Bread,Vegetarian,Dinner,East Terrancemouth,2,45
+534,Vegetables,Non-Vegetarian,Dinner,Longland,2,34
+52,Vegetables,Non-Vegetarian,Snacks,Lake Justin,2,23
+294,Bread,Vegan,Dinner,East Elizabethberg,2,40
+419,Rice,Vegetarian,Breakfast,Port Donnaton,2,26
+969,Soup,Non-Vegetarian,Lunch,East Garyton,2,50
+929,Bread,Vegan,Lunch,Taylormouth,2,23
+507,Chicken,Vegetarian,Lunch,Christopherton,2,43
+762,Soup,Vegetarian,Snacks,Port Amandamouth,2,4
+403,Bread,Non-Vegetarian,Breakfast,South Michaelberg,2,25
+165,Bread,Vegetarian,Lunch,Lake Kristentown,2,22
+958,Soup,Vegetarian,Lunch,Woodport,2,19
+531,Salad,Vegan,Lunch,Port Robin,2,42
+94,Rice,Vegetarian,Lunch,Linchester,2,35
+926,Rice,Vegetarian,Snacks,Andreaborough,2,41
+180,Salad,Vegan,Dinner,Lake Christopherburgh,2,35
+65,Fruits,Non-Vegetarian,Breakfast,North Destiny,2,45
+801,Chicken,Vegan,Lunch,South Christopherborough,2,50
+844,Fish,Non-Vegetarian,Dinner,Brownshire,2,46
+168,Salad,Non-Vegetarian,Lunch,North Keith,2,26
+626,Salad,Non-Vegetarian,Breakfast,New Dawnborough,2,37
+153,Fish,Vegetarian,Breakfast,Port Andrea,2,20
+624,Fish,Non-Vegetarian,Breakfast,Bentonfurt,2,10
+320,Vegetables,Vegetarian,Lunch,North Douglasfurt,2,26
+371,Bread,Non-Vegetarian,Lunch,New John,2,34
+973,Fruits,Non-Vegetarian,Breakfast,Keithburgh,2,7
+839,Chicken,Vegan,Lunch,Jasonstad,2,6
+160,Rice,Vegetarian,Snacks,Deckermouth,2,27
+418,Vegetables,Non-Vegetarian,Lunch,Maysside,2,19
+353,Fruits,Non-Vegetarian,Lunch,Deborahfurt,2,5
+373,Rice,Non-Vegetarian,Lunch,Phillipsfort,2,39
+73,Soup,Vegan,Breakfast,East Andrea,2,48
+227,Vegetables,Non-Vegetarian,Breakfast,Jonestown,2,25
+877,Chicken,Non-Vegetarian,Lunch,Steeleport,2,8
+623,Salad,Vegetarian,Breakfast,New Amanda,2,38
+949,Pasta,Vegetarian,Breakfast,Davidville,2,15
+684,Rice,Vegetarian,Snacks,Walterborough,2,39
+616,Fish,Non-Vegetarian,Dinner,Westmouth,2,35
+707,Soup,Vegetarian,Dinner,East Lisa,2,29
+806,Soup,Vegetarian,Dinner,Manuelhaven,2,12
+114,Vegetables,Vegan,Breakfast,West Kevin,2,28
+223,Bread,Vegan,Snacks,West Amandafurt,2,38
+415,Vegetables,Vegan,Breakfast,Callahanside,2,18
+997,Fish,Vegetarian,Breakfast,Andersonmouth,2,22
+50,Salad,Vegetarian,Dinner,Maxwellburgh,2,28
+446,Bread,Non-Vegetarian,Snacks,Brittanyville,2,9
+379,Rice,Vegetarian,Lunch,North Ianbury,2,14
+906,Soup,Vegan,Snacks,Lake Jessicamouth,2,17
+596,Fish,Non-Vegetarian,Lunch,North Crystal,2,44
+435,Chicken,Non-Vegetarian,Lunch,Aprilberg,2,26
+23,Salad,Vegan,Dinner,New Jessica,2,43
+892,Bread,Vegetarian,Dinner,Kevinfort,2,42
+56,Vegetables,Non-Vegetarian,Lunch,Lake April,2,9
+475,Pasta,Vegetarian,Dinner,Donnaborough,2,13
+128,Rice,Vegetarian,Snacks,Gutierrezshire,2,39
+262,Dairy,Vegetarian,Breakfast,Raybury,2,47
+116,Soup,Vegetarian,Lunch,Lake Vanessa,2,32
+565,Pasta,Non-Vegetarian,Lunch,Bentleyburgh,2,36
+476,Fruits,Non-Vegetarian,Dinner,East Stephanie,2,2
+633,Salad,Vegan,Snacks,Lake Michael,2,19
+290,Dairy,Non-Vegetarian,Lunch,Lake Andrewmouth,2,19
+673,Rice,Vegan,Lunch,Williamsmouth,2,28
+203,Pasta,Vegetarian,Breakfast,New Curtis,2,8
+765,Soup,Vegan,Lunch,Perezport,2,1
+855,Salad,Vegetarian,Lunch,Zimmermanville,2,28
+275,Fish,Non-Vegetarian,Breakfast,Davidland,2,35
+226,Rice,Non-Vegetarian,Snacks,Michaelport,2,26
+37,Fish,Non-Vegetarian,Dinner,Davidborough,2,19
+59,Vegetables,Vegan,Snacks,East Terrancemouth,2,38
+381,Pasta,Vegan,Dinner,New Michelle,2,35
+515,Dairy,Vegan,Lunch,New Evanport,2,10
+935,Vegetables,Vegetarian,Dinner,Collinsmouth,2,24
+207,Salad,Vegetarian,Dinner,Lake Lorrainefort,2,42
+812,Bread,Non-Vegetarian,Lunch,Charlesmouth,2,49
+109,Fruits,Vegan,Dinner,Joshuastad,2,7
+924,Fish,Vegetarian,Dinner,New Travisshire,2,3
+828,Vegetables,Non-Vegetarian,Breakfast,West Omarside,2,21
+602,Chicken,Non-Vegetarian,Breakfast,Erikatown,2,15
+836,Salad,Vegan,Breakfast,Maysside,2,49
+879,Chicken,Non-Vegetarian,Dinner,Edwardsbury,2,21
+853,Rice,Vegan,Snacks,Lake Tamara,2,18
+778,Dairy,Non-Vegetarian,Snacks,Port Robin,2,7
+663,Dairy,Vegan,Snacks,Lake Andrewmouth,2,42
+611,Vegetables,Vegetarian,Snacks,East Stephanie,2,40
+977,Vegetables,Vegan,Dinner,Maxwellburgh,2,12
+813,Fish,Vegetarian,Breakfast,Allenton,2,33
+695,Fruits,Vegetarian,Breakfast,East John,2,17
+25,Rice,Vegan,Breakfast,Medinatown,2,48
+508,Dairy,Vegan,Lunch,East John,2,42
+9,Bread,Non-Vegetarian,Snacks,East Andrewland,2,46
+896,Vegetables,Vegetarian,Snacks,Batesstad,2,32
+866,Fish,Vegetarian,Dinner,Lindseyland,2,7
+496,Chicken,Vegetarian,Dinner,Pearsonchester,2,22
+304,Fish,Vegetarian,Dinner,Richardsonhaven,2,5
+819,Bread,Non-Vegetarian,Breakfast,Port Marcland,2,35
+782,Rice,Non-Vegetarian,Snacks,New Rachel,2,49
+302,Bread,Vegan,Snacks,Yatesside,2,31
+199,Vegetables,Vegan,Breakfast,Toddberg,2,16
+413,Salad,Vegetarian,Lunch,Lake Andrewmouth,2,31
+299,Dairy,Non-Vegetarian,Lunch,Port Victoria,2,14
+444,Dairy,Non-Vegetarian,Lunch,Amberton,2,27
+529,Dairy,Non-Vegetarian,Dinner,West Melissastad,2,48
+502,Dairy,Vegan,Lunch,East Meganfort,2,40
+962,Soup,Vegetarian,Breakfast,Marymouth,2,13
+164,Dairy,Vegan,Dinner,Carolchester,2,22
+284,Vegetables,Vegetarian,Breakfast,Perezport,2,36
+156,Fish,Vegetarian,Snacks,Jeffreybury,2,24
+225,Fish,Vegan,Dinner,Murrayborough,2,26
+166,Soup,Vegan,Lunch,North Kevinhaven,2,9
+175,Dairy,Vegetarian,Breakfast,Johnton,2,26
+683,Soup,Vegetarian,Dinner,Shortfurt,2,28
+921,Chicken,Vegetarian,Snacks,Marissaville,2,6
+640,Pasta,Non-Vegetarian,Breakfast,Smithfort,2,2
+494,Bread,Vegetarian,Breakfast,Port Emily,2,41
+69,Bread,Vegetarian,Snacks,Gaineschester,2,47
+457,Soup,Non-Vegetarian,Lunch,Louismouth,2,30
+141,Dairy,Non-Vegetarian,Lunch,Lake Mistyton,2,33
+206,Rice,Non-Vegetarian,Breakfast,South Allisonburgh,2,28
+1,Bread,Non-Vegetarian,Breakfast,South Kellyville,2,43
+554,Soup,Non-Vegetarian,Breakfast,North Sharonburgh,2,31
+951,Vegetables,Vegan,Lunch,Lake Joseph,2,20
+487,Fruits,Vegetarian,Dinner,Jonathanstad,2,43
+984,Chicken,Non-Vegetarian,Dinner,New Joel,2,26
+913,Fruits,Vegetarian,Dinner,Alexanderchester,2,39
+904,Chicken,Vegetarian,Breakfast,South Kathryn,2,40
+589,Rice,Vegetarian,Dinner,East Samantha,2,49
+321,Pasta,Non-Vegetarian,Lunch,Lake Cathy,2,20
+504,Rice,Vegetarian,Lunch,Derekport,2,28
+902,Salad,Vegan,Snacks,Louismouth,2,34
+210,Fruits,Vegetarian,Breakfast,Lake Latasha,2,17
+202,Dairy,Vegetarian,Lunch,Lake Amymouth,2,17
+893,Salad,Vegan,Lunch,South Lisaberg,2,3
+243,Fruits,Non-Vegetarian,Snacks,Michaelton,2,30
+179,Bread,Vegetarian,Breakfast,Port Troychester,2,11
+950,Pasta,Vegetarian,Snacks,North Katelynland,2,3
+253,Rice,Vegan,Snacks,North Tom,2,20
+492,Pasta,Vegetarian,Breakfast,Meghanfurt,2,30
+385,Pasta,Non-Vegetarian,Dinner,Lake Stephen,2,7
+72,Dairy,Vegan,Dinner,Joneshaven,2,11
+291,Salad,Vegetarian,Breakfast,Lindseybury,2,12
+438,Dairy,Vegetarian,Breakfast,Marthaside,2,46
+538,Dairy,Vegetarian,Lunch,Cisnerostown,2,18
+918,Dairy,Vegetarian,Breakfast,Marcstad,1,8
+825,Salad,Vegetarian,Breakfast,Manningshire,1,25
+200,Bread,Non-Vegetarian,Dinner,Woodport,1,3
+6,Vegetables,Vegan,Snacks,South Johnshire,1,4
+134,Rice,Vegan,Dinner,Brittanyville,1,1
+732,Soup,Vegan,Dinner,Port Anita,1,29
+938,Vegetables,Vegan,Breakfast,Penabury,1,7
+408,Soup,Non-Vegetarian,Breakfast,South Jerryside,1,42
+310,Rice,Vegan,Dinner,Markport,1,13
+543,Fruits,Vegan,Dinner,South Tylerstad,1,9
+464,Fish,Vegetarian,Lunch,Sandrastad,1,27
+319,Chicken,Vegetarian,Snacks,Mcclainfurt,1,47
+131,Fish,Vegan,Dinner,Devinmouth,1,16
+154,Pasta,Vegan,Breakfast,Mendezmouth,1,46
+517,Dairy,Vegan,Dinner,East Deniseborough,1,4
+910,Salad,Vegetarian,Breakfast,Rogersmouth,1,37
+564,Fish,Non-Vegetarian,Lunch,Anneville,1,29
+619,Pasta,Vegan,Snacks,New Evanport,1,46
+13,Fruits,Vegetarian,Snacks,Floresville,1,33
+469,Vegetables,Vegetarian,Snacks,Manuelhaven,1,7
+735,Fish,Non-Vegetarian,Snacks,Castilloport,1,2
+764,Vegetables,Vegetarian,Breakfast,Tinamouth,1,21
+563,Pasta,Non-Vegetarian,Lunch,Brandyberg,1,37
+327,Dairy,Vegetarian,Breakfast,Harrishaven,1,24
+407,Chicken,Vegetarian,Lunch,Blaketown,1,32
+747,Dairy,Vegan,Lunch,North Julieburgh,1,39
+992,Salad,Vegan,Breakfast,Lake Coryhaven,1,25
+161,Vegetables,Non-Vegetarian,Breakfast,New Matthew,1,32
+717,Salad,Non-Vegetarian,Breakfast,East Austin,1,40
+988,Soup,Vegan,Lunch,Wadeville,1,44
+298,Chicken,Vegetarian,Lunch,New Jacob,1,2
+86,Soup,Vegetarian,Dinner,Maynardstad,1,13
+45,Fish,Non-Vegetarian,Lunch,Priceland,1,17
+148,Pasta,Non-Vegetarian,Breakfast,Garzaville,1,16
+178,Dairy,Vegan,Breakfast,Williamsonmouth,1,47
+811,Salad,Non-Vegetarian,Dinner,West Larry,1,19
+461,Pasta,Vegetarian,Dinner,Port Davidshire,1,10
+714,Pasta,Vegetarian,Lunch,Zimmermanton,1,5
+307,Chicken,Non-Vegetarian,Breakfast,Jamesfurt,1,20
+187,Dairy,Non-Vegetarian,Snacks,Leeburgh,1,38
+261,Pasta,Non-Vegetarian,Lunch,East Courtneymouth,1,15
+229,Pasta,Non-Vegetarian,Dinner,Paulmouth,1,26
+559,Salad,Vegan,Dinner,Allenborough,1,18
+447,Soup,Vegetarian,Lunch,East Anthony,1,21
+36,Rice,Vegan,Breakfast,New Jessica,1,35
+799,Chicken,Vegetarian,Breakfast,New Travisshire,1,5
+755,Soup,Vegetarian,Dinner,Justinhaven,1,4
+784,Bread,Non-Vegetarian,Dinner,North Gary,1,1
+972,Vegetables,Vegetarian,Dinner,South Edwardtown,1,21
+873,Rice,Vegan,Lunch,Huberstad,1,49
+462,Soup,Vegan,Dinner,Christopherstad,1,22
+961,Soup,Non-Vegetarian,Lunch,Lake Michaelfurt,1,22
+90,Bread,Vegan,Breakfast,East Jacobchester,1,29
+100,Vegetables,Vegan,Breakfast,West Kara,1,22
+137,Pasta,Vegetarian,Snacks,West Adam,1,29
+254,Rice,Non-Vegetarian,Lunch,Lake Jamestown,1,30
+677,Dairy,Vegan,Breakfast,North Mariahchester,1,43
+597,Dairy,Vegetarian,Lunch,East Angela,1,12
+512,Chicken,Vegetarian,Lunch,Garciatown,1,20
+391,Bread,Vegan,Lunch,North Edwinchester,1,40
+571,Salad,Non-Vegetarian,Breakfast,Lake Traceyburgh,1,39
+794,Fruits,Vegan,Snacks,Lake Christophermouth,1,21
+824,Bread,Vegetarian,Dinner,East Stephanie,1,12
+467,Dairy,Non-Vegetarian,Dinner,New Ricky,1,7
+282,Fruits,Non-Vegetarian,Lunch,West Tinamouth,1,27
+998,Fruits,Non-Vegetarian,Dinner,New Billy,1,6
+55,Vegetables,Vegetarian,Breakfast,Coleburgh,1,19
+252,Chicken,Non-Vegetarian,Snacks,East Elizabethberg,1,18
+456,Vegetables,Vegetarian,Snacks,Bellport,1,16
+608,Vegetables,Non-Vegetarian,Dinner,West Dawn,1,27
+708,Rice,Vegan,Lunch,East Amyfurt,1,17
+329,Rice,Vegetarian,Dinner,North Ryan,1,42
+64,Soup,Non-Vegetarian,Dinner,Lake Travis,1,41
+395,Vegetables,Vegan,Lunch,Pamelaberg,1,36
+95,Pasta,Vegan,Snacks,New Lisa,1,19
+930,Chicken,Vegan,Lunch,Herbertbury,1,33
+194,Chicken,Non-Vegetarian,Lunch,South Kellyberg,1,39
+220,Pasta,Vegan,Snacks,Davisview,1,18
+33,Salad,Vegetarian,Breakfast,North Amanda,1,9
+749,Salad,Non-Vegetarian,Lunch,Watsonstad,1,32
+318,Pasta,Vegan,Lunch,Roystad,1,48
+183,Salad,Vegan,Snacks,Benjaminstad,1,15
+135,Rice,Vegan,Lunch,Port Melissa,1,44
+699,Salad,Non-Vegetarian,Dinner,Wilsonview,1,32
+553,Salad,Vegan,Breakfast,New Daniel,1,36
+500,Pasta,Vegan,Dinner,North Melanie,1,14
+149,Fish,Vegetarian,Breakfast,New Jamesburgh,1,18
+481,Dairy,Vegan,Dinner,East Robert,1,16
+237,Salad,Vegan,Dinner,North Ebony,1,39
+71,Fish,Vegetarian,Lunch,Michaelton,1,45
+453,Fish,Vegetarian,Lunch,Jeffreyshire,1,21
+703,Salad,Vegetarian,Breakfast,Gibsonfort,1,35
+681,Bread,Non-Vegetarian,Breakfast,Clarkberg,1,28
+526,Rice,Vegetarian,Lunch,New Jacob,1,11
+405,Bread,Vegetarian,Lunch,Devinmouth,1,16
+939,Rice,Non-Vegetarian,Dinner,Herbertbury,1,45
+727,Chicken,Vegetarian,Lunch,West Corey,1,3
+943,Bread,Vegan,Lunch,North Mike,1,13
+401,Soup,Vegetarian,Lunch,West Dannyland,1,42
+416,Soup,Vegan,Dinner,West Sharonview,1,49
+716,Dairy,Vegetarian,Snacks,Frederickside,1,29
+790,Chicken,Vegan,Dinner,West Whitneymouth,1,2
+532,Bread,Non-Vegetarian,Breakfast,Timothychester,1,50
+265,Fruits,Non-Vegetarian,Breakfast,East Tammy,1,32
+865,Fish,Non-Vegetarian,Snacks,South Charles,1,25
+833,Fruits,Non-Vegetarian,Dinner,Jonathanhaven,1,44
+41,Chicken,Vegetarian,Dinner,Grahamside,1,14
+172,Rice,Non-Vegetarian,Breakfast,Lake Karenfurt,1,45
+384,Fish,Vegan,Snacks,Robertshire,1,14
+637,Chicken,Non-Vegetarian,Lunch,East Sonyaport,1,49
+697,Chicken,Vegan,Breakfast,Walterton,1,42
+644,Bread,Non-Vegetarian,Snacks,East Nicholasbury,1,21
+524,Soup,Vegan,Snacks,West Juliabury,1,25
+393,Bread,Vegan,Breakfast,Brownchester,1,50
+665,Pasta,Vegan,Dinner,Mitchellmouth,1,7
+197,Rice,Vegetarian,Breakfast,East Timothy,1,21
+625,Rice,Vegan,Breakfast,Davidville,1,7
+3,Fruits,Vegan,Breakfast,Lake Regina,1,46
+641,Bread,Vegan,Snacks,South Andrewport,1,9
+672,Bread,Vegetarian,Snacks,South Brenda,1,2
+592,Rice,Vegan,Lunch,Lake Ryanbury,1,13
+821,Chicken,Non-Vegetarian,Lunch,Davidport,1,9
+788,Fish,Vegan,Dinner,North Garybury,1,26
+660,Salad,Vegetarian,Snacks,North Sherrimouth,1,42
+555,Dairy,Vegan,Breakfast,Solisburgh,1,47
+509,Dairy,Non-Vegetarian,Snacks,Port Melissa,1,18
+946,Vegetables,Vegan,Breakfast,Jonathanhaven,1,29
+31,Bread,Non-Vegetarian,Snacks,Valdezborough,1,42
+891,Chicken,Vegetarian,Lunch,Watsonton,1,9
+349,Vegetables,Vegetarian,Breakfast,Jonathanmouth,1,33
+338,Chicken,Non-Vegetarian,Lunch,Westmouth,1,7
+387,Rice,Vegan,Dinner,Lake Vanessaland,1,31
+245,Chicken,Vegetarian,Dinner,Timothyview,1,5
+364,Fish,Non-Vegetarian,Snacks,Henrychester,1,33
+79,Rice,Vegan,Breakfast,Mooreview,1,25
+221,Bread,Vegan,Snacks,Lake James,1,11
+829,Dairy,Vegan,Dinner,New Carol,1,44
+278,Soup,Non-Vegetarian,Lunch,Lake Michaelfurt,1,35
+590,Fruits,Vegan,Snacks,Michaelview,1,11
+400,Rice,Vegan,Lunch,Villastad,1,42
+849,Pasta,Vegan,Breakfast,East Angela,1,29
+443,Chicken,Non-Vegetarian,Lunch,North Catherine,1,34
+132,Soup,Non-Vegetarian,Snacks,Cisnerostown,1,20
+47,Salad,Vegan,Snacks,Anthonyton,1,3
+586,Vegetables,Vegetarian,Breakfast,Lake Rachael,1,37
+787,Fish,Vegetarian,Dinner,Port Patrick,1,48
+598,Rice,Non-Vegetarian,Lunch,West Stevenport,1,19
+823,Chicken,Vegan,Lunch,Lake George,1,27
+236,Soup,Non-Vegetarian,Lunch,North Tom,1,50
+701,Salad,Vegetarian,Lunch,Leslieville,1,33
+934,Salad,Vegan,Breakfast,Spenceland,1,50
+167,Fish,Vegetarian,Lunch,West Melissa,1,4
+382,Salad,Non-Vegetarian,Dinner,East Garyton,1,42
+985,Bread,Vegetarian,Dinner,Ramseyfort,1,31
+208,Rice,Vegetarian,Dinner,New Curtis,1,27
+890,Chicken,Vegan,Lunch,Bentleyburgh,1,40
+692,Bread,Non-Vegetarian,Dinner,West Whitneymouth,1,8
+685,Rice,Vegetarian,Dinner,West Whitneymouth,1,39
+98,Salad,Vegetarian,Breakfast,Davidville,1,26
+728,Dairy,Vegetarian,Dinner,New Douglas,1,28
+577,Bread,Non-Vegetarian,Dinner,Perezport,1,30
+536,Rice,Vegan,Dinner,Christinetown,1,13
+651,Pasta,Non-Vegetarian,Snacks,Jasonstad,1,36
+285,Rice,Vegetarian,Breakfast,North Aaron,1,44
+967,Fruits,Vegan,Snacks,Donnaborough,1,34
+933,Dairy,Non-Vegetarian,Lunch,Lake Regina,1,17
+610,Pasta,Non-Vegetarian,Breakfast,East Jacobchester,1,13
+342,Vegetables,Vegetarian,Lunch,Jonathanmouth,1,5
+39,Bread,Non-Vegetarian,Breakfast,Port Patrick,1,48
+738,Fruits,Vegan,Snacks,West Brandon,1,5
+19,Rice,Vegan,Breakfast,Port Peter,1,13
+810,Bread,Vegan,Snacks,East Stephanie,1,34
+671,Salad,Vegetarian,Breakfast,East Craig,1,49
+756,Bread,Vegan,Snacks,Strongmouth,1,5
+358,Fruits,Vegetarian,Breakfast,Lake Jason,1,41
+655,Salad,Non-Vegetarian,Snacks,Samanthabury,1,46
+293,Rice,Non-Vegetarian,Dinner,Port Eric,1,32
+28,Chicken,Vegan,Dinner,North Nathan,1,5
+800,Dairy,Vegan,Lunch,North Lisaland,1,15
+133,Rice,Vegan,Lunch,Brownberg,1,28
+272,Vegetables,Vegan,Dinner,Anthonyshire,1,30
+317,Dairy,Non-Vegetarian,Dinner,New Robertstad,1,22
+733,Pasta,Vegetarian,Snacks,East Anthony,1,31
+389,Vegetables,Non-Vegetarian,Snacks,Laurietown,1,30
+17,Chicken,Non-Vegetarian,Snacks,East Ashleyshire,1,42
+424,Pasta,Non-Vegetarian,Lunch,Leeburgh,1,41
+246,Salad,Non-Vegetarian,Snacks,South Danielle,1,50
+545,Pasta,Vegetarian,Snacks,South Edwardtown,1,23
+138,Soup,Non-Vegetarian,Snacks,North Sharonberg,1,24
+955,Soup,Non-Vegetarian,Snacks,Port Eric,1,26
+195,Vegetables,Non-Vegetarian,Snacks,Williamsonmouth,1,31
+687,Pasta,Vegan,Lunch,Lake Alicia,1,5
+900,Dairy,Non-Vegetarian,Breakfast,Ginaview,1,31
+489,Fish,Vegetarian,Dinner,East Robert,1,39
+493,Fish,Vegetarian,Snacks,West Samantha,1,26
+356,Fish,Vegan,Lunch,Ruizmouth,1,27
+332,Rice,Vegetarian,Dinner,Clarkberg,1,12
+601,Vegetables,Vegan,Snacks,Watsonstad,1,9
+522,Rice,Vegetarian,Lunch,Port Melanie,1,7
+143,Fish,Non-Vegetarian,Lunch,Hollyhaven,1,18
+63,Salad,Vegetarian,Dinner,North Gary,1,6
+240,Fruits,Vegetarian,Lunch,Lake Amymouth,1,46
+483,Vegetables,Vegetarian,Snacks,Anthonyborough,1,36
+652,Fruits,Non-Vegetarian,Dinner,Colemanton,1,44
+324,Soup,Vegetarian,Snacks,Thomasville,1,39
+499,Salad,Non-Vegetarian,Snacks,New John,1,6
+312,Fruits,Non-Vegetarian,Breakfast,North Julieburgh,1,11
+568,Fruits,Non-Vegetarian,Breakfast,South Kathryn,1,11
+840,Dairy,Vegan,Snacks,Lisamouth,1,43
+734,Vegetables,Non-Vegetarian,Lunch,Lake April,1,5
+412,Chicken,Non-Vegetarian,Snacks,Stevenchester,1,10
+120,Rice,Vegan,Lunch,Lindseybury,1,30
+585,Rice,Vegetarian,Breakfast,Maxwellburgh,1,3
+654,Bread,Vegetarian,Dinner,South Douglashaven,1,2
+173,Soup,Vegan,Dinner,Jasonmouth,1,17
+662,Soup,Vegan,Snacks,East Craig,1,47
+113,Soup,Vegetarian,Breakfast,Latoyaberg,1,14
+359,Bread,Non-Vegetarian,Lunch,East Emily,1,6
+627,Vegetables,Non-Vegetarian,Breakfast,Pereztown,1,26
+126,Dairy,Vegan,Lunch,Lake Rachael,1,27
+720,Dairy,Vegan,Snacks,South Christopherborough,1,1
+495,Pasta,Vegetarian,Dinner,New Denise,1,34
+11,Pasta,Vegan,Breakfast,Deborahland,1,39
+85,Pasta,Vegan,Lunch,Brandyberg,1,28
+396,Dairy,Non-Vegetarian,Dinner,Shortfurt,1,5
+425,Chicken,Non-Vegetarian,Breakfast,Mendezmouth,1,19
+612,Vegetables,Non-Vegetarian,Lunch,Priceland,1,45
+922,Soup,Non-Vegetarian,Dinner,North Ianbury,1,32
+129,Chicken,Vegan,Dinner,North Amanda,1,26
+777,Fruits,Vegetarian,Dinner,South Kathryn,1,5
+668,Salad,Non-Vegetarian,Snacks,Donnaborough,1,48
+804,Fruits,Vegan,Breakfast,West Vanessafort,1,47
+404,Salad,Vegetarian,Snacks,Youngchester,1,10
+106,Rice,Vegetarian,Breakfast,Sharonton,1,31
+818,Fish,Vegetarian,Dinner,South Michellechester,1,50
+295,Soup,Non-Vegetarian,Dinner,North Nicholas,1,39
+650,Soup,Non-Vegetarian,Breakfast,Maynardstad,1,40
+895,Pasta,Vegan,Snacks,West Sharonview,1,38
+399,Chicken,Vegetarian,Lunch,Tammyside,1,16
+287,Salad,Vegan,Breakfast,Jenniferville,1,20
+250,Bread,Vegan,Snacks,Williamsfort,1,8
+852,Vegetables,Non-Vegetarian,Snacks,East Brittanyland,1,49
+989,Bread,Non-Vegetarian,Snacks,East Aaron,1,31
+954,Rice,Vegan,Lunch,North Caitlin,1,36
+766,Chicken,Vegetarian,Breakfast,East Edwinburgh,1,17
+722,Soup,Vegetarian,Dinner,North Keith,1,43
+980,Chicken,Vegan,Dinner,Brookeland,1,2
+931,Vegetables,Vegan,Snacks,Port Connie,1,49
+647,Rice,Vegan,Snacks,Velazquezview,1,1
+365,Fruits,Non-Vegetarian,Dinner,Ruizmouth,1,48
+898,Fish,Non-Vegetarian,Breakfast,West Adam,1,28
+437,Chicken,Non-Vegetarian,Dinner,North Tracy,1,29
+480,Pasta,Non-Vegetarian,Lunch,Wadeville,1,25
+792,Chicken,Vegan,Breakfast,Brittanyside,1,15
+157,Chicken,Vegan,Breakfast,Meganshire,1,37
+367,Vegetables,Non-Vegetarian,Snacks,Allenton,1,38
+648,Rice,Non-Vegetarian,Breakfast,West Miaside,1,42
+757,Dairy,Vegetarian,Dinner,Port Gregton,1,42
+300,Pasta,Non-Vegetarian,Snacks,Castilloport,1,16
+875,Bread,Non-Vegetarian,Breakfast,Port Staceymouth,1,19
+713,Fish,Vegan,Snacks,East Austin,1,7
+603,Rice,Non-Vegetarian,Lunch,Johnsonborough,1,37
+228,Rice,Vegetarian,Snacks,Gardnerfort,1,12
+40,Fruits,Vegetarian,Breakfast,Port Bryce,1,12
+334,Bread,Non-Vegetarian,Snacks,New Rodneyville,1,17
+441,Fruits,Vegetarian,Lunch,Port Tanyaburgh,1,2
+562,Dairy,Vegan,Dinner,West Kevin,1,3
+144,Bread,Vegan,Lunch,Lake Jason,1,18
+903,Rice,Vegetarian,Breakfast,New Erica,1,25
+88,Vegetables,Non-Vegetarian,Dinner,Samanthabury,1,22
+854,Fish,Vegan,Breakfast,North Ashley,1,33
+694,Bread,Vegetarian,Dinner,Manningshire,1,50
+325,Chicken,Vegan,Dinner,West Robert,1,32
+959,Pasta,Vegan,Breakfast,Port Patrick,1,26
+639,Salad,Non-Vegetarian,Lunch,Wilsonport,1,5
+570,Vegetables,Non-Vegetarian,Breakfast,East Lori,1,8
+433,Dairy,Vegetarian,Lunch,Russellfurt,1,50
+723,Pasta,Vegetarian,Breakfast,West Lucasville,1,2
+721,Vegetables,Non-Vegetarian,Breakfast,Matthewbury,1,20
+767,Salad,Vegan,Dinner,Samueltown,1,17
+557,Vegetables,Non-Vegetarian,Dinner,Lindseyland,1,20
+46,Pasta,Vegetarian,Breakfast,East Emilyburgh,1,25
+189,Salad,Vegetarian,Breakfast,West Lisamouth,1,7
+70,Rice,Vegetarian,Lunch,Boylechester,1,7
+614,Salad,Vegan,Lunch,Jonathanhaven,1,43
+234,Rice,Vegetarian,Dinner,West Sharonview,1,10
+680,Dairy,Non-Vegetarian,Snacks,Jonathanstad,1,47
+181,Rice,Non-Vegetarian,Lunch,East Andrewland,1,35
+731,Fruits,Vegetarian,Snacks,East Elizabeth,1,42
+741,Fish,Vegan,Breakfast,Williamview,1,21
+888,Salad,Non-Vegetarian,Snacks,West Danielborough,1,6
+78,Chicken,Non-Vegetarian,Dinner,Erikatown,1,1
+29,Bread,Vegan,Lunch,Bartonborough,1,18
+573,Fish,Vegetarian,Snacks,South Davidside,1,40
+352,Vegetables,Vegetarian,Dinner,South Andrewport,1,31
+643,Salad,Vegan,Dinner,Andreaborough,1,8
+550,Rice,Vegan,Dinner,New Ninashire,1,16
+580,Rice,Non-Vegetarian,Snacks,Chelseyfort,1,21
+386,Salad,Vegetarian,Snacks,Padillatown,1,30
+990,Pasta,Vegetarian,Breakfast,Francisshire,1,11
+323,Dairy,Vegan,Snacks,Mendezmouth,1,31
+979,Pasta,Vegetarian,Lunch,Moralesside,1,43
+83,Rice,Vegetarian,Dinner,North Ianbury,1,44
+897,Chicken,Non-Vegetarian,Lunch,Jeffreyport,1,5
+518,Fruits,Vegan,Lunch,Paulmouth,1,46
+629,Bread,Vegan,Breakfast,Amandashire,1,33
+18,Soup,Vegan,Snacks,Madisonfort,1,28
+308,Soup,Vegan,Snacks,New Larry,1,11
+459,Rice,Vegetarian,Snacks,Andersonville,1,2
+331,Fish,Vegan,Breakfast,East Kevin,1,8
+136,Bread,Vegan,Dinner,Jessicaland,1,29
+7,Dairy,Vegan,Dinner,Nolanmouth,1,29
+769,Chicken,Vegetarian,Lunch,Millerview,1,27
+232,Soup,Vegan,Lunch,Allenton,1,19
+111,Soup,Vegetarian,Snacks,West Miaside,1,13
+971,Fish,Vegetarian,Snacks,East Richardside,1,7
+104,Dairy,Non-Vegetarian,Dinner,East Johnburgh,1,3
+162,Pasta,Non-Vegetarian,Breakfast,Lake Karenfurt,1,50
+125,Rice,Vegan,Dinner,Westbury,1,21
+269,Soup,Non-Vegetarian,Snacks,Port Matthew,1,36
+523,Salad,Non-Vegetarian,Lunch,South Stefanietown,1,29
+191,Salad,Vegan,Lunch,Walkerfurt,1,13
+805,Chicken,Non-Vegetarian,Dinner,Gutierrezshire,1,1
+273,Salad,Non-Vegetarian,Lunch,Port Richardshire,1,32
+34,Bread,Vegan,Breakfast,Heatherside,1,3
+540,Soup,Non-Vegetarian,Snacks,South Kellyberg,1,33
+675,Soup,Vegan,Dinner,Amberton,1,25
+686,Salad,Vegetarian,Dinner,Laurietown,1,15
+61,Fruits,Vegetarian,Lunch,West Catherine,1,33
+448,Vegetables,Vegan,Snacks,Walterborough,1,25
+905,Bread,Vegan,Dinner,East Sheena,1,37
+510,Salad,Non-Vegetarian,Dinner,Padillatown,1,33
+521,Vegetables,Vegan,Snacks,Mortonfort,1,23
+66,Fish,Non-Vegetarian,Breakfast,Lake Donna,1,6
+211,Chicken,Vegetarian,Snacks,Michaelport,1,37
+417,Soup,Vegan,Snacks,Bartonborough,1,49
+748,Soup,Vegetarian,Breakfast,Rebeccaburgh,1,17
+67,Rice,Vegan,Breakfast,Madisonfort,1,50
+634,Bread,Non-Vegetarian,Breakfast,Carlbury,1,40
+739,Chicken,Vegan,Breakfast,Evansmouth,1,2
+426,Bread,Vegetarian,Dinner,New Hannah,1,6
+746,Bread,Non-Vegetarian,Lunch,Joneshaven,1,31
+292,Chicken,Non-Vegetarian,Breakfast,West Kevin,1,16
+150,Fish,Vegan,Snacks,West Whitneymouth,1,50
+108,Fruits,Non-Vegetarian,Snacks,Thorntonbury,1,22
+689,Pasta,Vegetarian,Breakfast,Port Dustin,1,34
+664,Bread,Non-Vegetarian,Breakfast,Villaborough,1,34
+676,Soup,Non-Vegetarian,Dinner,Lake Donna,1,15
+525,Soup,Vegetarian,Lunch,Pamelaberg,1,30
+669,Vegetables,Vegetarian,Dinner,Sylviabury,1,14
+260,Fruits,Vegetarian,Dinner,Jessicaland,1,50
+279,Chicken,Non-Vegetarian,Lunch,Lake Alicia,1,3
+916,Rice,Non-Vegetarian,Snacks,New Calebberg,1,47
+488,Fish,Vegetarian,Breakfast,Bonillahaven,1,22
+970,Fruits,Vegetarian,Breakfast,Marymouth,1,26
+725,Soup,Vegetarian,Breakfast,South Thomasville,1,47
+556,Fish,Vegan,Lunch,Hollyhaven,1,48
+458,Dairy,Vegan,Lunch,Paulmouth,1,16
+193,Pasta,Vegan,Breakfast,South Alicia,1,25
+119,Bread,Non-Vegetarian,Breakfast,East Candace,1,49
+378,Soup,Vegetarian,Lunch,Harrishaven,1,39
+635,Pasta,Vegetarian,Dinner,East Terrancemouth,1,18
+205,Dairy,Vegan,Breakfast,Port Lisamouth,1,13
+315,Salad,Vegetarian,Dinner,New Zachary,1,47
+551,Chicken,Vegan,Lunch,Lake Heather,1,4
+795,Dairy,Non-Vegetarian,Dinner,Garciatown,1,3
+919,Soup,Non-Vegetarian,Dinner,Port Dianaberg,1,35
+968,Rice,Non-Vegetarian,Lunch,Lake Maria,1,45
+928,Bread,Vegetarian,Breakfast,East Shanestad,1,20
+999,Pasta,Non-Vegetarian,Lunch,Lake Mistyton,1,15
+582,Soup,Vegetarian,Snacks,Jordanhaven,1,44
+751,Chicken,Vegan,Snacks,Francisshire,1,18
+330,Rice,Vegan,Snacks,North Charlesside,1,49
+995,Rice,Vegan,Snacks,Rodriguezview,1,37
+763,Fish,Vegan,Snacks,South Thomasville,1,33
+80,Dairy,Vegetarian,Breakfast,Nicoletown,1,36
+775,Pasta,Vegetarian,Dinner,Lake Lauraton,1,7
+421,Dairy,Vegetarian,Dinner,Lake Jasmin,1,24
+277,Pasta,Non-Vegetarian,Lunch,Toddberg,1,30
+81,Fruits,Vegetarian,Snacks,Fowlerbury,1,33
+593,Soup,Vegan,Lunch,Snyderton,1,2
+43,Pasta,Vegan,Lunch,Patrickmouth,1,44
+862,Dairy,Non-Vegetarian,Lunch,Frederickside,1,4
+257,Chicken,Vegan,Snacks,North Nicholas,1,41
+397,Salad,Non-Vegetarian,Breakfast,South Kevinhaven,1,14
+498,Rice,Non-Vegetarian,Snacks,Lake Diane,1,28
+281,Rice,Non-Vegetarian,Breakfast,West Michael,1,28
+864,Soup,Vegetarian,Snacks,West Anthonymouth,1,11
+239,Pasta,Vegan,Dinner,Lewisberg,1,26
+74,Chicken,Non-Vegetarian,Breakfast,West Juliabury,1,12
+901,Vegetables,Vegetarian,Dinner,South Anne,1,38
+355,Pasta,Vegetarian,Dinner,Port Lesliebury,1,10
+340,Fruits,Vegetarian,Dinner,Colemanton,1,3
+688,Salad,Vegan,Snacks,South Donald,0,6
+758,Rice,Non-Vegetarian,Dinner,North Lauren,0,4
+32,Rice,Non-Vegetarian,Lunch,Port Kendraborough,0,27
+422,Soup,Non-Vegetarian,Breakfast,Timothychester,0,2
+702,Bread,Vegan,Snacks,West Samuelfurt,0,6
+960,Fish,Vegetarian,Snacks,New Calebberg,0,46
+238,Vegetables,Vegetarian,Breakfast,Sarahland,0,2
+432,Dairy,Non-Vegetarian,Breakfast,West Hunter,0,34
+337,Vegetables,Vegan,Snacks,East Laurashire,0,5
+816,Fruits,Vegetarian,Lunch,Port Bryce,0,2
+620,Chicken,Vegetarian,Dinner,Chelseyfort,0,7
+473,Chicken,Vegetarian,Breakfast,Markport,0,19
+653,Soup,Non-Vegetarian,Breakfast,New Thomasmouth,0,50
+595,Salad,Vegan,Lunch,South Crystalberg,0,42
+860,Fish,Vegetarian,Lunch,Steveport,0,37
+566,Fish,Vegan,Lunch,Port Rubenville,0,8
+142,Soup,Vegetarian,Snacks,North Lindseychester,0,41
+711,Pasta,Vegan,Breakfast,Davidville,0,25
+169,Fruits,Vegan,Snacks,East Sandra,0,18
+434,Vegetables,Non-Vegetarian,Snacks,Lake Justin,0,20
+561,Pasta,Non-Vegetarian,Lunch,Lake Kendramouth,0,47
+38,Bread,Vegetarian,Snacks,Elliottberg,0,48
+177,Dairy,Vegan,Breakfast,Port Michael,0,22
+305,Soup,Non-Vegetarian,Breakfast,Perkinsbury,0,14
+736,Fruits,Non-Vegetarian,Snacks,Mortonfort,0,33
+530,Soup,Vegetarian,Breakfast,Marcstad,0,32
+645,Soup,Vegetarian,Breakfast,North Ebony,0,34
+264,Bread,Vegetarian,Dinner,North Douglasfurt,0,49
+753,Fruits,Vegetarian,Breakfast,Port Jeffrey,0,19
+145,Rice,Vegan,Lunch,East Richardside,0,12
+484,Bread,Vegan,Snacks,South Michaelberg,0,15
+283,Dairy,Non-Vegetarian,Breakfast,North Ianbury,0,7
+617,Soup,Vegetarian,Lunch,Lake Diane,0,27
+710,Chicken,Non-Vegetarian,Lunch,Jeffreybury,0,41
+631,Pasta,Non-Vegetarian,Dinner,Muellermouth,0,49
+471,Pasta,Vegetarian,Lunch,East Williamshire,0,15
+411,Soup,Non-Vegetarian,Breakfast,Port Peter,0,39
+296,Dairy,Vegan,Lunch,Jimmyberg,0,24
+846,Salad,Vegan,Snacks,Cannonside,0,34
+539,Vegetables,Vegetarian,Breakfast,Perezport,0,14
+314,Fish,Vegetarian,Lunch,West Juliabury,0,27
+316,Salad,Vegetarian,Dinner,New Denise,0,4
+923,Fruits,Vegan,Snacks,Perezport,0,42
+942,Rice,Vegan,Dinner,New Leslieport,0,44
+982,Soup,Vegetarian,Breakfast,Lake Christopherburgh,0,36
+51,Dairy,Vegetarian,Snacks,Torresshire,0,14
+878,Rice,Non-Vegetarian,Snacks,West Dawn,0,23
+827,Salad,Vegan,Snacks,South Marthahaven,0,3
+646,Fruits,Vegetarian,Breakfast,East Ashleyshire,0,44
+737,Fish,Non-Vegetarian,Snacks,Kellytown,0,3
+192,Vegetables,Vegan,Snacks,Lake Jeffreytown,0,5
+93,Salad,Vegetarian,Lunch,New Richard,0,49
+885,Rice,Vegan,Lunch,Joseville,0,44
+754,Dairy,Non-Vegetarian,Dinner,Port David,0,37
+247,Fish,Non-Vegetarian,Lunch,East Andrewland,0,17
+121,Vegetables,Non-Vegetarian,Dinner,Rodriguezfurt,0,16
+313,Fruits,Vegetarian,Snacks,East Sandratown,0,3
+1000,Salad,Non-Vegetarian,Dinner,Charlesview,0,18
+452,Vegetables,Vegan,Dinner,Madelinechester,0,47
+841,Chicken,Vegan,Lunch,Darrylchester,0,15
+759,Chicken,Non-Vegetarian,Snacks,New Bobbytown,0,36
+213,Fruits,Non-Vegetarian,Snacks,Tyronebury,0,20
+276,Fruits,Vegan,Breakfast,Port Erin,0,47
+857,Pasta,Vegetarian,Dinner,Reyesshire,0,47
+268,Fish,Non-Vegetarian,Breakfast,East Andrea,0,21
+2,Soup,Non-Vegetarian,Dinner,West James,0,22
+569,Fish,Vegan,Lunch,North Elizabeth,0,20
+322,Chicken,Non-Vegetarian,Dinner,Johnport,0,12
+341,Vegetables,Non-Vegetarian,Dinner,East Phillipton,0,48
+388,Soup,Vegetarian,Dinner,Johnsonborough,0,41
+470,Salad,Vegan,Dinner,Port Leahfurt,0,38
+546,Pasta,Vegan,Snacks,Moseshaven,0,33
+760,Dairy,Non-Vegetarian,Dinner,Mikaylachester,0,28
+815,Pasta,Vegan,Snacks,Bairdfort,0,50
+26,Vegetables,Vegan,Dinner,Christinaland,0,34
+872,Vegetables,Vegetarian,Snacks,Pamelaberg,0,50
+914,Chicken,Vegan,Dinner,Manningshire,0,18
+158,Bread,Vegetarian,Breakfast,North James,0,22
+289,Vegetables,Non-Vegetarian,Breakfast,Frederickside,0,31
+867,Soup,Vegetarian,Snacks,New Hollyfurt,0,1
+472,Salad,Non-Vegetarian,Snacks,Murrayborough,0,21
+868,Soup,Non-Vegetarian,Snacks,Gaineschester,0,4
+876,Salad,Vegan,Snacks,North Susan,0,38
+53,Fruits,Vegetarian,Lunch,North Carolfurt,0,13
+497,Dairy,Vegetarian,Dinner,South Kathryn,0,48
+333,Salad,Non-Vegetarian,Breakfast,Port Connie,0,41
+503,Rice,Non-Vegetarian,Snacks,Lake Kendramouth,0,40
+122,Fruits,Vegan,Snacks,South Thomasville,0,7
+219,Fish,Vegetarian,Snacks,Jasmineberg,0,26
+987,Dairy,Vegetarian,Dinner,East Aaron,0,6
+848,Dairy,Non-Vegetarian,Dinner,Taylorchester,0,32
+266,Soup,Vegetarian,Lunch,Morganhaven,0,30
+511,Salad,Vegan,Snacks,Lake Michael,0,25
+881,Dairy,Vegetarian,Lunch,Jimmyberg,0,43
+745,Fruits,Vegan,Breakfast,New Amanda,0,34
+368,Salad,Non-Vegetarian,Lunch,Lake Karenfurt,0,1
+259,Rice,Non-Vegetarian,Snacks,Ashleyhaven,0,44
+666,Vegetables,Non-Vegetarian,Dinner,Thorntonbury,0,47
+514,Salad,Vegetarian,Snacks,Sheenashire,0,20
+139,Rice,Vegetarian,Dinner,Port Richardshire,0,3
+588,Dairy,Non-Vegetarian,Breakfast,South Kathryn,0,31
+4,Fruits,Vegan,Lunch,Kellytown,0,15
+830,Vegetables,Vegetarian,Snacks,Williamsonmouth,0,3
+542,Bread,Vegetarian,Lunch,North Chase,0,7
+607,Vegetables,Vegetarian,Dinner,Brittanyland,0,23
+772,Salad,Vegan,Lunch,South Christopherborough,0,37
+948,Fruits,Vegan,Breakfast,Kylehaven,0,50
+847,Pasta,Vegan,Dinner,Strongmouth,0,29
+803,Chicken,Vegan,Snacks,North William,0,13
+478,Soup,Vegetarian,Lunch,Zimmermanton,0,43
+986,Rice,Vegan,Snacks,Garciamouth,0,23
+8,Rice,Vegetarian,Lunch,South Christopherborough,0,49
+372,Pasta,Vegan,Snacks,North Sherrimouth,0,11
+506,Fruits,Non-Vegetarian,Snacks,West Brandon,0,37
+442,Fish,Non-Vegetarian,Lunch,North Kennethshire,0,20
+242,Soup,Vegan,Dinner,Jimmyberg,0,17
+768,Soup,Non-Vegetarian,Snacks,Bradleyport,0,39
+576,Salad,Non-Vegetarian,Lunch,Basstown,0,35
+789,Chicken,Vegan,Snacks,New Connorfort,0,10
+286,Pasta,Vegetarian,Snacks,South Karen,0,37
+693,Chicken,Vegetarian,Dinner,East Angela,0,6
+12,Pasta,Vegetarian,Lunch,North Steven,0,15
+591,Fruits,Vegetarian,Breakfast,New John,0,19
+182,Soup,Vegan,Breakfast,Port Aaron,0,29
+124,Salad,Vegetarian,Snacks,Sheilaburgh,0,50
+414,Vegetables,Non-Vegetarian,Snacks,North Aaron,0,7
+455,Pasta,Vegan,Dinner,West Matthew,0,17
+533,Fruits,Vegetarian,Breakfast,New Carol,0,25
+894,Pasta,Vegetarian,Dinner,Saraburgh,0,43
+466,Rice,Vegetarian,Dinner,Lake Nathan,0,6
+477,Dairy,Vegan,Breakfast,New Carol,0,40
+835,Vegetables,Vegetarian,Lunch,East Heatherport,0,17
+263,Salad,Vegetarian,Breakfast,Riceshire,0,21
+449,Dairy,Vegetarian,Dinner,Jimmyberg,0,21
+549,Rice,Non-Vegetarian,Breakfast,North Kevinhaven,0,34
+630,Bread,Vegan,Snacks,Lake Regina,0,39
+343,Bread,Vegan,Snacks,East Angela,0,40
+729,Rice,Vegan,Lunch,Sharonton,0,42
+750,Bread,Non-Vegetarian,Breakfast,Petersonburgh,0,17
+802,Soup,Non-Vegetarian,Dinner,Marymouth,0,25
+184,Salad,Vegetarian,Dinner,Port Jeffrey,0,7
+966,Dairy,Vegan,Snacks,East Robert,0,41
+482,Salad,Non-Vegetarian,Dinner,Blaketown,0,32
+249,Salad,Vegan,Breakfast,Zimmermanville,0,39
+776,Chicken,Vegetarian,Dinner,Johnsonside,0,33
+785,Bread,Non-Vegetarian,Lunch,Lake Travis,0,10
+159,Pasta,Vegan,Lunch,Cameronside,0,7
+146,Chicken,Vegan,Lunch,Garciaside,0,17
+436,Pasta,Vegan,Snacks,New Rodneyville,0,6
+581,Salad,Vegetarian,Breakfast,South Tiffanyfort,0,8
+445,Pasta,Vegan,Lunch,Manningshire,0,13
+638,Rice,Non-Vegetarian,Dinner,Kylehaven,0,12
+222,Vegetables,Non-Vegetarian,Breakfast,Port Heidiland,0,23
+975,Fish,Non-Vegetarian,Lunch,Valentineside,0,48
+843,Fruits,Vegetarian,Dinner,Snyderton,0,46
+808,Dairy,Vegetarian,Dinner,Rodriguezview,0,7
+567,Bread,Vegetarian,Breakfast,New Joel,0,3
+613,Bread,Vegetarian,Dinner,North Brendaborough,0,42
+130,Vegetables,Vegan,Breakfast,East Rossside,0,47
+880,Soup,Vegetarian,Lunch,Randallchester,0,35
+309,Chicken,Vegan,Snacks,Brendantown,0,47
+709,Chicken,Vegetarian,Breakfast,Jasonland,0,15
+117,Soup,Non-Vegetarian,Snacks,Johnstonhaven,0,32
+77,Rice,Vegetarian,Lunch,Pereztown,0,4
+440,Pasta,Vegan,Lunch,Jonathanstad,0,34
+376,Vegetables,Vegan,Lunch,Bentleyburgh,0,47
+171,Salad,Vegetarian,Snacks,Port Michaelshire,0,25
+339,Pasta,Non-Vegetarian,Dinner,Port Timothystad,0,40
+147,Vegetables,Non-Vegetarian,Breakfast,North Katelynland,0,47
+936,Chicken,Non-Vegetarian,Breakfast,Martinville,0,32
+75,Bread,Vegetarian,Dinner,Davidborough,0,35
+44,Bread,Vegan,Snacks,Bradleyport,0,39
+490,Salad,Non-Vegetarian,Snacks,East Angela,0,3
+60,Pasta,Non-Vegetarian,Breakfast,Hawkinsmouth,0,49
+535,Fish,Vegan,Snacks,Salinasville,0,24
+779,Bread,Vegan,Lunch,Belindaville,0,43
+27,Salad,Vegan,Breakfast,New Carol,0,12
+796,Pasta,Vegetarian,Lunch,North Amanda,0,8
+105,Rice,Non-Vegetarian,Breakfast,Phillipsmouth,0,2
+420,Soup,Vegan,Breakfast,Wheelermouth,0,13
+57,Chicken,Vegan,Dinner,South Jessicachester,0,23
+704,Chicken,Non-Vegetarian,Lunch,Anneville,0,43
+809,Dairy,Vegan,Breakfast,Mooneybury,0,48
+394,Fruits,Vegetarian,Dinner,East Andrea,0,30
+774,Dairy,Vegan,Breakfast,New Michaelmouth,0,2
+661,Bread,Vegan,Dinner,West Kevin,0,12
+773,Fish,Vegetarian,Dinner,Cordovaborough,0,40
+428,Dairy,Vegetarian,Snacks,Michaelport,0,35
+994,Salad,Non-Vegetarian,Snacks,New Amanda,0,17
+451,Fish,Vegan,Breakfast,Smithmouth,0,14
+185,Soup,Non-Vegetarian,Lunch,East Craig,0,19
+908,Rice,Non-Vegetarian,Snacks,East Edwinburgh,0,16
+869,Fish,Vegan,Snacks,Jennifertown,0,27
+354,Pasta,Vegan,Lunch,Lake Christophermouth,0,3
+781,Bread,Vegan,Snacks,Janetborough,0,45
+618,Soup,Non-Vegetarian,Dinner,Lake Richardhaven,0,9
+965,Dairy,Vegetarian,Lunch,West James,0,44
+348,Fish,Vegetarian,Lunch,West Lauraborough,0,21
+691,Rice,Vegan,Dinner,Lake Raymondton,0,21
+186,Pasta,Vegetarian,Breakfast,North Keith,0,48
+402,Fish,Non-Vegetarian,Lunch,Lake Benjamin,0,11
+761,Dairy,Vegetarian,Snacks,Mooremouth,0,46
+10,Rice,Vegan,Dinner,Markport,0,41
+198,Bread,Vegetarian,Breakfast,Jefferyside,0,50
+231,Rice,Non-Vegetarian,Breakfast,North Mary,0,33
+336,Dairy,Non-Vegetarian,Snacks,East Angelafort,0,36
+123,Soup,Vegetarian,Lunch,Annahaven,0,11
+357,Chicken,Vegan,Dinner,New Monicaside,0,1
+887,Soup,Vegetarian,Lunch,South Bryan,0,12
+311,Fish,Vegan,Dinner,Port Marissachester,0,3
+20,Pasta,Non-Vegetarian,Snacks,North Keith,0,41
+884,Chicken,Vegetarian,Lunch,Solisburgh,0,27
+547,Chicken,Vegan,Snacks,South Bryan,0,26
+274,Salad,Vegan,Snacks,South Danielle,0,37
+306,Salad,Non-Vegetarian,Snacks,North Julieburgh,0,27
+874,Bread,Non-Vegetarian,Snacks,Jimmyberg,0,45
+87,Salad,Vegan,Breakfast,North Garybury,0,37
+698,Rice,Non-Vegetarian,Lunch,Ramosville,0,16
+369,Fruits,Vegan,Breakfast,Lake Lorrainefort,0,23
+501,Chicken,Vegetarian,Lunch,South Robert,0,27
+719,Pasta,Vegan,Snacks,Browntown,0,44
+584,Salad,Non-Vegetarian,Snacks,Richchester,0,16
+944,Vegetables,Vegan,Breakfast,Williamland,0,41
+537,Salad,Vegetarian,Breakfast,Lake Deborah,0,9
+889,Soup,Vegan,Snacks,Port Ronaldshire,0,21
+941,Fish,Vegan,Lunch,East Lisa,0,1
+605,Vegetables,Vegetarian,Dinner,Lake Benjamin,0,20
+953,Soup,Vegetarian,Breakfast,East Christophertown,0,2
+351,Bread,Non-Vegetarian,Snacks,Lake Travis,0,45
+628,Fish,Non-Vegetarian,Snacks,Port Patrick,0,5
+491,Fruits,Vegan,Lunch,Port Connie,0,23
+783,Rice,Vegetarian,Snacks,Madisonfort,0,4
+706,Dairy,Non-Vegetarian,Dinner,East Lindsayville,0,45
+842,Bread,Vegan,Breakfast,Carlbury,0,40
+996,Fish,Vegan,Breakfast,Phillipsfort,0,15
+519,Pasta,Non-Vegetarian,Lunch,Lake Christopherburgh,0,43
+850,Dairy,Vegan,Breakfast,Kentland,0,22
+280,Pasta,Vegan,Dinner,Heatherview,0,44
+255,Dairy,Non-Vegetarian,Lunch,South Bryan,0,44
+303,Fish,Vegan,Dinner,Tamaraside,0,2
+201,Soup,Vegetarian,Dinner,Jamesport,0,35
+752,Soup,Vegan,Breakfast,Lake Justin,0,12
+235,Dairy,Vegan,Lunch,North Brentbury,0,38
+430,Dairy,Vegan,Snacks,East Michelle,0,33
+976,Vegetables,Non-Vegetarian,Lunch,West Kelli,0,41
+858,Fruits,Non-Vegetarian,Snacks,North Mike,0,13
+102,Rice,Vegetarian,Snacks,Moralesside,0,35
+24,Bread,Non-Vegetarian,Lunch,Villastad,0,20
+974,Chicken,Non-Vegetarian,Lunch,Heatherview,0,45
+978,Dairy,Vegetarian,Snacks,South Richard,0,14
+712,Pasta,Non-Vegetarian,Dinner,Chambersfort,0,31
+587,Fruits,Non-Vegetarian,Dinner,Leslieville,0,22
+270,Pasta,Vegan,Lunch,Sandrastad,0,29
+15,Salad,Vegetarian,Breakfast,Belindaville,0,3
+780,Dairy,Vegan,Snacks,Penabury,0,48
+5,Soup,Vegan,Dinner,Garciaport,0,14
+863,Fruits,Vegan,Breakfast,Port Robin,0,30
+212,Salad,Non-Vegetarian,Dinner,Andrewsmouth,0,33
+656,Bread,Vegetarian,Dinner,Carolchester,0,26
+196,Fish,Non-Vegetarian,Breakfast,North Lauren,0,27
+468,Fruits,Vegetarian,Breakfast,Lake Anthonyport,0,1
+209,Fish,Non-Vegetarian,Dinner,Smithfort,0,31
+346,Chicken,Vegan,Snacks,East Sheena,0,16
+361,Dairy,Vegetarian,Breakfast,South Jerryside,0,17
+963,Fish,Vegan,Dinner,East Kimberly,0,33
+834,Pasta,Vegetarian,Dinner,North Kylestad,0,43
+740,Salad,Vegetarian,Lunch,Connieside,0,6
+54,Soup,Non-Vegetarian,Snacks,North Lindseychester,0,15
+267,Soup,Non-Vegetarian,Dinner,West Lauraborough,0,6
+516,Fish,Non-Vegetarian,Breakfast,South Thomasville,0,24
+363,Bread,Non-Vegetarian,Breakfast,East Melissa,0,24
+14,Bread,Vegetarian,Dinner,Sarahland,0,19
+454,Pasta,Vegetarian,Lunch,Brianside,0,4
+429,Pasta,Non-Vegetarian,Lunch,Scottchester,0,34
+82,Vegetables,Non-Vegetarian,Snacks,North Kevinhaven,0,26
+578,Salad,Vegan,Snacks,West Corey,0,27
+726,Soup,Vegetarian,Breakfast,East Cynthia,0,27
+248,Vegetables,Non-Vegetarian,Lunch,Port Lance,0,32
+659,Salad,Non-Vegetarian,Dinner,Laurietown,0,4
+831,Pasta,Non-Vegetarian,Breakfast,Jamesport,0,24
+288,Bread,Vegetarian,Breakfast,Lake Jamestown,0,48
+667,Soup,Vegetarian,Lunch,New Amanda,0,30
+527,Dairy,Non-Vegetarian,Snacks,Anthonyhaven,0,3
+127,Rice,Vegan,Snacks,Josephburgh,0,48
+62,Rice,Non-Vegetarian,Breakfast,Port Andre,0,21
+112,Chicken,Vegetarian,Lunch,Brittanyside,0,32
+140,Chicken,Vegan,Dinner,Coleburgh,0,18
+392,Soup,Vegan,Dinner,Carlborough,0,34
+450,Bread,Non-Vegetarian,Dinner,North Lindseychester,0,9
+375,Vegetables,Vegan,Dinner,South Russelltown,0,15
+621,Soup,Non-Vegetarian,Lunch,West Hunter,0,23
+814,Bread,Vegan,Snacks,Jefferyside,0,18
+99,Bread,Non-Vegetarian,Dinner,Penabury,0,8
+328,Chicken,Vegetarian,Snacks,Brookeland,0,36
+642,Chicken,Non-Vegetarian,Dinner,West Robert,0,38
+366,Chicken,Non-Vegetarian,Lunch,South Jeffreyburgh,0,25
+118,Dairy,Vegan,Lunch,Port Michael,0,42
+370,Fruits,Vegan,Lunch,Port Melanie,0,35
+377,Pasta,Non-Vegetarian,Breakfast,Port Andrea,0,22
+583,Vegetables,Non-Vegetarian,Dinner,Hollyhaven,0,44
+658,Vegetables,Non-Vegetarian,Dinner,Carrport,0,4
+724,Dairy,Vegetarian,Lunch,Castilloport,0,44
+439,Fruits,Vegan,Dinner,Port David,0,41
+718,Vegetables,Non-Vegetarian,Dinner,North Joseph,0,45
+21,Rice,Vegan,Dinner,West Aliciabury,0,38
+883,Bread,Vegetarian,Lunch,Jordanborough,0,8
+204,Fish,Non-Vegetarian,Lunch,Weberfurt,0,11
+993,Soup,Vegetarian,Lunch,Port Daniellechester,0,8
+871,Chicken,Non-Vegetarian,Lunch,South William,0,7
+362,Chicken,Vegan,Snacks,Lindseybury,0,29
+91,Vegetables,Vegetarian,Breakfast,Brittanyport,0,9
+649,Dairy,Vegetarian,Lunch,West Samuelfurt,0,8
+957,Fish,Vegan,Lunch,West Cherylfort,0,39
+859,Pasta,Non-Vegetarian,Breakfast,Lake Amymouth,0,1
+793,Fruits,Vegan,Snacks,Lopezport,0,5
+383,Vegetables,Vegan,Lunch,Port Melanie,0,48
+155,Fruits,Vegan,Dinner,North Destiny,0,20
+856,Rice,Vegetarian,Snacks,Jordanhaven,0,44
+347,Chicken,Vegetarian,Breakfast,Jonathanstad,0,45
+770,Dairy,Non-Vegetarian,Lunch,East Melissa,0,30
+344,Vegetables,Vegan,Snacks,Lake Travis,0,44
+42,Rice,Vegan,Lunch,North Michelle,0,50
+604,Pasta,Vegan,Breakfast,Port Carrie,0,47
+838,Bread,Vegetarian,Lunch,East Melissa,0,38
+845,Bread,Non-Vegetarian,Dinner,Port Victoria,0,14
+68,Rice,Vegetarian,Snacks,East Elizabethberg,0,15
+301,Rice,Vegan,Breakfast,New Tiffanystad,0,35
+431,Pasta,Non-Vegetarian,Lunch,Bellport,0,21
+218,Fish,Vegan,Snacks,North Brooke,0,38
+927,Fruits,Vegetarian,Snacks,South Richardhaven,0,39
+541,Vegetables,Vegan,Dinner,East Deborah,0,12
+899,Pasta,Vegetarian,Snacks,Valentineside,0,44
+907,Chicken,Vegan,Lunch,Katherinefurt,0,17
+350,Pasta,Non-Vegetarian,Breakfast,Torresshire,0,8
+244,Soup,Non-Vegetarian,Snacks,South Lisaberg,0,17
+423,Fish,Vegan,Breakfast,North Chase,0,6
+956,Chicken,Vegan,Snacks,Heathermouth,0,39
+48,Rice,Vegan,Breakfast,North Jamesberg,0,30
+552,Dairy,Vegetarian,Dinner,Gardnerfort,0,44
+170,Fruits,Vegan,Breakfast,Jeremiahfort,0,49
+678,Pasta,Vegetarian,Snacks,South Nicholasville,0,8
+817,Rice,Vegetarian,Snacks,East Brittanyland,0,23
+742,Dairy,Vegetarian,Breakfast,Millerview,0,3
+360,Chicken,Vegan,Dinner,Port Lisamouth,0,12
+983,Fruits,Vegetarian,Lunch,Gardnerfort,0,43
+679,Bread,Non-Vegetarian,Snacks,Phillipsmouth,0,24
+176,Fish,Non-Vegetarian,Snacks,Williamsfort,0,19
+575,Pasta,Non-Vegetarian,Breakfast,Salastown,0,15
+103,Bread,Non-Vegetarian,Snacks,South Jerryside,0,35
+513,Fruits,Vegetarian,Snacks,Crystalborough,0,49
+700,Dairy,Vegan,Breakfast,Cisnerostown,0,10
+409,Chicken,Vegetarian,Dinner,Medinatown,0,46
+76,Pasta,Vegan,Lunch,North Kennethshire,0,40

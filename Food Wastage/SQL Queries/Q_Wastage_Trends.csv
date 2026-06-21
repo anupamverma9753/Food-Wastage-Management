@@ -1,0 +1,4 @@
+"Food_Type","Expired_Count","Successfully_Distributed","Wastage_Rate_Percentage"
+Non-Vegetarian,446,114,100.00
+Vegetarian,464,127,100.00
+Vegan,443,98,100.00
